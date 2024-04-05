@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77c19186303e0153",
+            "id": "b550faaa584acdc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science and Engineering/Data Types and Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3b6a56857e4c8c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Science and Engineering/Data Types and Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2758ecfff2a95970",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +40,6 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b550faaa584acdc7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
@@ -44,22 +58,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d86e2c66befb18f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "7eb1e00f4c4b89ca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +79,33 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "826f4e62452ffedf",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram.svg"
+              }
+            }
+          },
+          {
+            "id": "b844097e3c535dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.50000381469727
   },
   "right": {
     "id": "de570007732ad258",
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Data Science and Engineering/Data Types and Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Data Science and Engineering/Data Types and Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Data Science and Engineering/Data Types and Distributions.md"
               }
             }
           }
@@ -155,13 +180,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b550faaa584acdc7",
+  "active": "a3b6a56857e4c8c4",
   "lastOpenFiles": [
-    "Data Science and Engineering/Untitled.md",
+    "Excalidraw/DataDiagram.excalidraw.md",
+    "Data Science and Engineering/Data Types and Distributions.md",
+    "Excalidraw/Drawing 2024-04-04 16.58.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-04 16.58.44.excalidraw.md",
     "README.md",
+    "Untitled Diagram.svg",
+    "files.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
     "Mathematics/Combinatorics",
     "Mathematics/Graph Theory",
     "Mathematics/Linear Algebra",

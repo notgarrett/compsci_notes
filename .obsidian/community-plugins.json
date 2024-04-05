@@ -1,4 +1,12 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-icon-folder",
+  "obsidian-linter",
+  "obsidian-mind-map",
+  "obsidian-charts",
+  "quick-latex"
 ]
