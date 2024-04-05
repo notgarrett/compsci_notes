@@ -3,5 +3,6 @@
   "cssTheme": "Obsidian gruvbox",
   "enabledCssSnippets": [
     "image_center"
-  ]
+  ],
+  "theme": "obsidian"
 }

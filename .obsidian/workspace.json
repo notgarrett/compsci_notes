@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Data Science and Engineering/Inferential Statistics and Hypothesis Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac458d60d9c1c5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Data Science and Engineering/Data Types and Distributions.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,17 +192,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a3b6a56857e4c8c4",
+  "active": "ac458d60d9c1c5f6",
   "lastOpenFiles": [
-    "Excalidraw/DataDiagram.excalidraw.md",
+    "Data Science and Engineering/Inferential Statistics and Hypothesis Testing.md",
+    "Excalidraw/InferentialDiagram.excalidraw.md",
     "Data Science and Engineering/Data Types and Distributions.md",
+    "Templates/Charts/Radar Chart.md",
+    "Templates/Charts/Polar Area Chart.md",
+    "Templates/Charts/Doughnut Chart.md",
+    "Templates/Charts/Line Chart.md",
+    "Templates/Charts/Pie Chart.md",
+    "Templates/Charts/Table Chart.md",
+    "Templates/Charts/Bar Chart.md",
+    "README.md",
+    "Templates/Graphs/Untitled",
+    "Templates/Charts",
+    "Templates",
+    "Excalidraw/DataDiagram.excalidraw.md",
     "Excalidraw/Drawing 2024-04-04 16.58.35.excalidraw.md",
     "Excalidraw/Drawing 2024-04-04 16.58.44.excalidraw.md",
-    "README.md",
     "Untitled Diagram.svg",
     "files.md",
     "Untitled.canvas",
@@ -201,8 +226,6 @@
     "Mathematics/Linear Algebra",
     "Mathematics",
     "Networking",
-    "Algorithms and Data Structures",
-    "Data Science and Engineering",
-    "Untitled/Untitled"
+    "Algorithms and Data Structures"
   ]
 }
