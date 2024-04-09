@@ -9,5 +9,6 @@
   "obsidian-mind-map",
   "obsidian-charts",
   "quick-latex",
-  "templater-obsidian"
+  "templater-obsidian",
+  "custom-font-loader"
 ]
