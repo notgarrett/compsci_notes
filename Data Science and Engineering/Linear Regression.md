@@ -91,3 +91,22 @@ Quantity $n - p - 1$ is the degrees of the freedom.
 - For simple linear regression: p = 1
 - For multiple linear regression: p = number of explanatory variables
 
+### F Test
+
+The **F Test** provides an *overall assessment* of the model to explain the response. 
+
+The individual t tests assess the importance of a single variable, given the presence of the other variables in the model.
+
+The sum of squares represent sources of variation
+- Both the sums of squares and their degrees of freedom add:
+
+$$SST = SSM + SSE$$
+$$DFT = DFM + DFE$$
+
+
+| Source | Degrees of freedom | Sum of squares                       | Mean square | F       |
+| ------ | ------------------ | ------------------------------------ | ----------- | ------- |
+| Model  | $p$                | $\sum\limits(\hat{y_i}-\bar{y})^{2}$ | SSM/DFM     | MSM/MSE |
+| Error  | $n-p-1$            | $\sum\limits(y_{i}-\hat{y_{i}})^{2}$ | SSE/DFE     |         |
+| Total  | $n-1$              | $\sum\limits(y_{i}-\bar{y})^{2}$     | SST/DFT     |         |
+
