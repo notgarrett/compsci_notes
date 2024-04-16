@@ -23,7 +23,8 @@ Note that $u$ and $v$ are adjacent if $uv \in E$
 
 ```ad-question
 title: How many edges can there be in a graph: Kn? 
-Our answer is: $$|E| = \begin{pmatrix}n\\2\end{pmatrix}$$
-Where $n = |v|$
+
 ```
 
+Our answer is: $$|E| = \begin{pmatrix}n\\2\end{pmatrix}$$
+Where $n = |v|$
