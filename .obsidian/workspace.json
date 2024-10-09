@@ -8,74 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b550faaa584acdc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Science and Engineering/Data Types and Distributions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3b6a56857e4c8c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Combinatorics/Permutations and Combinations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cdfd783ad4771f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Graph Theory/Graph Theory Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf08c8d56f8a32bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Graph Theory/Graphic Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e12e5762abefd95e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26588bd5e5a75753",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cloud Computing/Lecture 2.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "adbb548b39963c8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/HostGuestDiagram.excalidraw.md"
               }
             }
           },
@@ -91,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50000381469727
+    "width": 289.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "de570007732ad258",
@@ -169,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Cloud Computing/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Cloud Computing/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Cloud Computing/Lecture 2.md"
               }
             }
           }
@@ -222,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -230,17 +179,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "26588bd5e5a75753",
   "lastOpenFiles": [
+    "Cloud Computing/What is Cloud Computing?.md",
+    "Cloud Computing/Lecture 2.md",
+    "Excalidraw/HostGuestDiagram.excalidraw.md",
+    "Data Science and Engineering/Data Types and Distributions.md",
+    "Cloud Computing",
+    "README.md",
+    "Cloud Computing/Images",
     "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
     "Mathematics/Graph Theory/Graph Theory Basics.md",
     "Mathematics/Graph Theory/Graphic Graphs.md",
     "Excalidraw/SubgraphRepresentation.excalidraw.md",
     "Excalidraw/HakimiVisualization.excalidraw.md",
-    "README.md",
     "Excalidraw/BasicGraph1.excalidraw.md",
     "Mathematics/Combinatorics/Proofs in Combinatorics.md",
     "Mathematics/Combinatorics/Permutations and Combinations.md",
@@ -249,7 +205,6 @@
     "Excalidraw/AnBExampleChart.excalidraw.md",
     "Data Science and Engineering/Linear Regression.md",
     "Data Science and Engineering/Inferential Statistics and Hypothesis Testing.md",
-    "Data Science and Engineering/Data Types and Distributions.md",
     "Templates/Charts/Doughnut Chart.md",
     "Templates/Charts/Line Chart.md",
     "Templates/Charts/Table Chart.md",
@@ -260,9 +215,6 @@
     "Templates/Charts",
     "Templates",
     "Excalidraw/InferentialDiagram.excalidraw.md",
-    "Excalidraw/DataDiagram.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-04 16.58.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-04 16.58.44.excalidraw.md",
     "Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -271,8 +223,6 @@
     "Mathematics/Graph Theory",
     "Mathematics/Linear Algebra",
     "Mathematics",
-    "Networking",
-    "Algorithms and Data Structures",
-    "Data Science and Engineering"
+    "Networking"
   ]
 }
