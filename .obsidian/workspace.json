@@ -13,9 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Lecture 2.md",
+                "file": "Cloud Computing/Basic Scaling.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "922da7b393ce30c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bed1b76da51f88c1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/UnreliableNetworkChallenge.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a2f1f98367fea04d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CommonITResources.excalidraw.md"
               }
             }
           },
@@ -26,18 +58,6 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/HostGuestDiagram.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2758ecfff2a95970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -102,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50000381469727,
-    "collapsed": true
+    "width": 289.50000381469727
   },
   "right": {
     "id": "de570007732ad258",
@@ -119,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Lecture 2.md",
+                "file": "Cloud Computing/Basic Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Lecture 2.md",
+                "file": "Cloud Computing/Basic Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +178,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Lecture 2.md"
+                "file": "Cloud Computing/Basic Scaling.md"
               }
+            }
+          },
+          {
+            "id": "7338312b66d6e55f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -180,18 +207,35 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "26588bd5e5a75753",
   "lastOpenFiles": [
     "Cloud Computing/What is Cloud Computing?.md",
-    "Cloud Computing/Lecture 2.md",
-    "Excalidraw/HostGuestDiagram.excalidraw.md",
-    "Data Science and Engineering/Data Types and Distributions.md",
-    "Cloud Computing",
+    "Flash Cards",
+    "Images",
+    "Soon To Move",
     "README.md",
-    "Cloud Computing/Images",
+    "Home.md",
+    "Cloud Computing/Risks and Challenges.md",
+    "Cloud Computing/Cloud Delivery Models Deployment Models.md",
+    "Cloud Computing/Basic Scaling.md",
+    "Linear Programming/Note 1.md",
+    "Linear Regression.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Linear Programming/Flash Cards",
+    "Linear Programming/Images",
+    "Linear Programming",
+    "Mathematics/Flash Cards",
+    "Data Science and Engineering/Flash Cards",
+    "Cloud Computing/Flash Cards",
+    "Data Types and Distributions.md",
+    "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
+    "Excalidraw/CommonITResources.excalidraw.md",
+    "Excalidraw/HostGuestDiagram.excalidraw.md",
+    "Cloud Computing",
     "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
     "Mathematics/Graph Theory/Graph Theory Basics.md",
     "Mathematics/Graph Theory/Graphic Graphs.md",
@@ -203,26 +247,9 @@
     "Mathematics/Combinatorics/Binomial Theorem.md",
     "Excalidraw/BinomialTheorm.excalidraw.md",
     "Excalidraw/AnBExampleChart.excalidraw.md",
-    "Data Science and Engineering/Linear Regression.md",
-    "Data Science and Engineering/Inferential Statistics and Hypothesis Testing.md",
     "Templates/Charts/Doughnut Chart.md",
-    "Templates/Charts/Line Chart.md",
-    "Templates/Charts/Table Chart.md",
-    "Templates/Charts/Radar Chart.md",
-    "Templates/Charts/Polar Area Chart.md",
-    "Templates/Charts/Pie Chart.md",
-    "Templates/Charts/Bar Chart.md",
-    "Templates/Charts",
-    "Templates",
-    "Excalidraw/InferentialDiagram.excalidraw.md",
     "Untitled Diagram.svg",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Excalidraw",
-    "Mathematics/Combinatorics",
-    "Mathematics/Graph Theory",
-    "Mathematics/Linear Algebra",
-    "Mathematics",
-    "Networking"
+    "Untitled 1.canvas"
   ]
 }

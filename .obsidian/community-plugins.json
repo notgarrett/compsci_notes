@@ -8,7 +8,9 @@
   "obsidian-linter",
   "obsidian-mind-map",
   "obsidian-charts",
-  "quick-latex",
   "templater-obsidian",
-  "custom-font-loader"
+  "custom-font-loader",
+  "periodic-notes",
+  "homepage",
+  "calendar"
 ]
