@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d52da06957831e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,12 +182,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4d52da06957831e6",
   "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Curse of Gavin/Grub Child.md",
+    "Curse of Gavin/Curator.md",
+    "Curse of Gavin",
     "README.md",
     "Inferential Statistics and Hypothesis Testing.md",
     "Linear Regression.md",
-    "Home.md",
     "Cloud Computing/Basic Scaling.md",
     "Cloud Computing/What is Cloud Computing?.md",
     "Flash Cards",
@@ -193,7 +210,6 @@
     "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
     "Excalidraw/CommonITResources.excalidraw.md",
     "Excalidraw/HostGuestDiagram.excalidraw.md",
-    "Cloud Computing",
     "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
     "Mathematics/Graph Theory/Graph Theory Basics.md",
     "Mathematics/Graph Theory/Graphic Graphs.md",
@@ -204,8 +220,6 @@
     "Mathematics/Combinatorics/Permutations and Combinations.md",
     "Mathematics/Combinatorics/Binomial Theorem.md",
     "Excalidraw/BinomialTheorm.excalidraw.md",
-    "Excalidraw/AnBExampleChart.excalidraw.md",
-    "Templates/Charts/Doughnut Chart.md",
     "Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
