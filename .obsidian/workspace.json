@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "5a2ebc664de20533",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a8bb8c416fb4e75c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "26588bd5e5a75753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Computing/Basic Scaling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "922da7b393ce30c5",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,36 +16,6 @@
                 "file": "Home.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bed1b76da51f88c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/UnreliableNetworkChallenge.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a2f1f98367fea04d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CommonITResources.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "adbb548b39963c8c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HostGuestDiagram.excalidraw.md"
               }
             }
           }
@@ -138,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Basic Scaling.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Basic Scaling.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Basic Scaling.md"
+                "file": "Home.md"
               }
             }
           },
@@ -211,20 +169,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "26588bd5e5a75753",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Linear Regression.md",
+    "Home.md",
+    "Cloud Computing/Basic Scaling.md",
     "Cloud Computing/What is Cloud Computing?.md",
     "Flash Cards",
     "Images",
     "Soon To Move",
-    "README.md",
-    "Home.md",
     "Cloud Computing/Risks and Challenges.md",
     "Cloud Computing/Cloud Delivery Models Deployment Models.md",
-    "Cloud Computing/Basic Scaling.md",
     "Linear Programming/Note 1.md",
-    "Linear Regression.md",
-    "Inferential Statistics and Hypothesis Testing.md",
     "Linear Programming/Flash Cards",
     "Linear Programming/Images",
     "Linear Programming",
