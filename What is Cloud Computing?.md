@@ -1,3 +1,9 @@
+---
+tags:
+  - cloud_computing
+  - comp_4312
+---
+
 # Definitions
 
 **Cloud Computing: **

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/Cloud Computing/A1.md",
+                "file": "Cloud Delivery Models Deployment Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50000381469727
+    "width": 289.50000381469727,
+    "collapsed": true
   },
   "right": {
     "id": "de570007732ad258",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Cloud Computing/A1.md",
+                "file": "Cloud Delivery Models Deployment Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Cloud Computing/A1.md",
+                "file": "Cloud Delivery Models Deployment Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Cloud Computing/A1.md"
+                "file": "Cloud Delivery Models Deployment Models.md"
               }
             }
           },
@@ -148,12 +149,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,30 +172,31 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Homework/Cloud Computing/A1.md",
+    "Excalidraw/Drawing 2024-10-17 23.15.32.excalidraw.md",
+    "Cloud Delivery Models Deployment Models.md",
+    "Data Types and Distributions.md",
     "Home.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "README.md",
+    "Basic Scaling.md",
+    "Linear Regression.md",
+    "Risks and Challenges.md",
+    "What is Cloud Computing?.md",
+    "Homework/Cloud Computing/A1.md",
+    "conflict-files-obsidian-git.md",
     "Homework/Cloud Computing",
     "Homework",
     "Curse of Gavin/Grub Child.md",
     "Curse of Gavin/Curator.md",
     "Curse of Gavin",
-    "README.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Linear Regression.md",
-    "Cloud Computing/Basic Scaling.md",
-    "Cloud Computing/What is Cloud Computing?.md",
     "Flash Cards",
     "Images",
     "Soon To Move",
-    "Cloud Computing/Risks and Challenges.md",
-    "Cloud Computing/Cloud Delivery Models Deployment Models.md",
     "Linear Programming/Note 1.md",
     "Linear Programming/Flash Cards",
     "Linear Programming/Images",
     "Linear Programming",
     "Mathematics/Flash Cards",
-    "Data Types and Distributions.md",
     "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
     "Excalidraw/CommonITResources.excalidraw.md",
     "Excalidraw/HostGuestDiagram.excalidraw.md",
@@ -206,7 +208,6 @@
     "Excalidraw/BasicGraph1.excalidraw.md",
     "Mathematics/Combinatorics/Proofs in Combinatorics.md",
     "Mathematics/Combinatorics/Permutations and Combinations.md",
-    "Mathematics/Combinatorics/Binomial Theorem.md",
     "Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"

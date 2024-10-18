@@ -1,6 +1,12 @@
+---
+tags:
+  - cloud_computing
+  - comp_4312
+---
 # IT Resource in a Cloud
 
 An IT resource is a *physical or virtual IT related artefact* that can be either *software based*, such as a **virtual server** or a custom **software program**, or **hardware based**, such as a **physical server** or a **network device**.
+
 
 ![[CommonITResources.excalidraw | center]]
 

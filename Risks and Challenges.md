@@ -1,3 +1,8 @@
+---
+tags:
+  - cloud_computing
+  - comp_4312
+---
 # Risks and Challenges
 
 ## Increased Security Vulnerabilities
