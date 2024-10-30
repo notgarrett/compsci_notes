@@ -1,4 +1,4 @@
-Level: 
+Level: 1
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
@@ -18,20 +18,24 @@ Speed: 35 (+5 from feats)
 
 ## Defences
 
-HP: 7/13 (-2 until cured)
+HP: 13/13
 Armour Class: 18
 
 Fort: 6
 Reflex: 8
 Will: 10
 
+Focus Points: 3/3
+
+Cursebound: 2
 
 ## Feats
 
-Feats I take:
-
 ### Elf:
-Nimble Elf
+Nimble Elf (+5 speed)
+
+### Surki
+N/A
 
 ### Oracle:
 
@@ -39,7 +43,9 @@ Domain Acumen
 Thousand Visions
 Advanced Revelation
 Read Disaster
-Roll the bones of fate
+
+Roll the bones of fate - https://app.demiplane.com/nexus/pathfinder2e/feats/roll-the-bones-of-fate-rm
+
 Domain Fluency
 Revelations focus
 The dead walk ( I am so broken my god )
@@ -60,7 +66,7 @@ Mystery Conduit
 
 ## Oracle
 ### Cantrips
-Ancient Dust -
+Ancient Dust - https://2e.aonprd.com/Spells.aspx?ID=1261
 Message -
 Shield - 
 Rousing Splash -
@@ -68,21 +74,23 @@ Guidance -
 
 ### 1st Level
 Enfeeble - 
-Sacred Beasts - 
+Sacred Beasts - https://2e.aonprd.com/Spells.aspx?ID=1958
 Purifying Icicle -
 
 
 ## Witch
 
 ### Bonus Spells
-Pest Form -
+Pest Form - https://2e.aonprd.com/Spells.aspx?ID=1626
 
 ### Hexes
-Buzzing Bites - 
+Buzzing Bites - https://2e.aonprd.com/Spells.aspx?ID=1089
 
 #### Cantrips
-Electric Arc - 
-Prestidigation - 
+Electric Arc - https://2e.aonprd.com/Spells.aspx?ID=1509&Redirected=1
+
+Prestidigation - https://2e.aonprd.com/Spells.aspx?ID=1639
+
 Protect Campanion - 
 Inside Rope - 
 Detect Magic -
