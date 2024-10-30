@@ -2,6 +2,7 @@
 tags:
   - cloud_computing
   - comp_4312
+date:
 ---
 # IT Resource in a Cloud
 

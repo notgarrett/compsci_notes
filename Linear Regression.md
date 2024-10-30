@@ -1,3 +1,4 @@
+
 # Regression Analysis
 
 A simple linear regression model for a *response variable y* and *predictor variable x* is one in which we seek coefficients (or parameters) $\beta_{0}$ and $\beta_{1}$, such that, informally:

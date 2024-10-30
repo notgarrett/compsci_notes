@@ -1,0 +1,1 @@
+--- title: {{title}} created: {{date:YYYY-MM-DD}} tags: [] ---

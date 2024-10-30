@@ -2,8 +2,8 @@
 tags:
   - cloud_computing
   - comp_4312
+date: 2024-10-18
 ---
-
 # Cloud Delivery Models
 
 **Definition:** Represents a specific, pre-packaged combination of IT resources offered by a cloud provider.
@@ -46,5 +46,47 @@ cloud "Cloud Provider" as userCloud {
 
 PaaS represents a predefined "ready to use" environment typically comprised of *already deployed and configured IT resources*.
 
+Relies on usage of a set of pre packaged product and tools.
+
+By working within a ready made platform, the cloud consumer is spared the administrative burden of setting up and maintaining the bare infrastructure IT resources compared to via IaaS model.
+
+```plantuml
+cloud "Cloud Provider" {
+	[virtual server] .. (?)
+}
+[cloud consumer] <-> [virtual server]
+[cloud contract] .. [virtual server]
+```
+
+```ad-summary
+PaaS, or Platform as a Service, is a cloud computing model that provides a platform allowing developers to build, deploy, and manage applications without the complexity of managing the underlying infrastructure. It offers a range of tools and services, such as development frameworks, databases, and middleware, enabling developers to focus on coding and innovation.
+
+Heroku is an example of a PaaS.
+```
 
 ## Software as a Service (SaaS)
+
+A software program positioned as a shared cloud service and made available as a product or generic utility represents the typical profile of a SaaS offering. 
+
+Very limited administrative control for the cloud consumer. 
+
+```ad-summary
+Basically a product or utility where the user gets little to no administrative control. Discord is technically a SaaS.
+```
+
+# Cloud Development Models
+
+- Public Cloud
+- Community Cloud
+- Private Cloud
+- Hybrid Cloud
+\shutdown now
+
+## Public Cloud
+
+## Community Cloud
+
+## Private Cloud
+
+## Hybrid Cloud
+
