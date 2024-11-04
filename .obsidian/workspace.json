@@ -107,7 +107,11 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md",
+=======
+                "file": "Templates/Tikz Graph.md",
+>>>>>>> 44422ee (Workspace)
 =======
                 "file": "Templates/Tikz Graph.md",
 >>>>>>> 44422ee (Workspace)
@@ -121,7 +125,11 @@
               },
               "icon": "links-coming-in",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Backlinks for Cloud Delivery Models Deployment Models"
+=======
+              "title": "Backlinks for Tikz Graph"
+>>>>>>> 44422ee (Workspace)
 =======
               "title": "Backlinks for Tikz Graph"
 >>>>>>> 44422ee (Workspace)
@@ -134,7 +142,11 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md",
+=======
+                "file": "Curse of Gavin/Grub Child.md",
+>>>>>>> 44422ee (Workspace)
 =======
                 "file": "Curse of Gavin/Grub Child.md",
 >>>>>>> 44422ee (Workspace)
@@ -143,7 +155,11 @@
               },
               "icon": "links-going-out",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "Outgoing links from Cloud Delivery Models Deployment Models"
+=======
+              "title": "Outgoing links from Grub Child"
+>>>>>>> 44422ee (Workspace)
 =======
               "title": "Outgoing links from Grub Child"
 >>>>>>> 44422ee (Workspace)
@@ -169,15 +185,21 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Cloud Delivery Models Deployment Models"
 =======
+=======
+>>>>>>> 44422ee (Workspace)
                 "file": "Templates/Tikz Graph.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Tikz Graph"
+<<<<<<< HEAD
+>>>>>>> 44422ee (Workspace)
+=======
 >>>>>>> 44422ee (Workspace)
             }
           },
@@ -190,6 +212,7 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+<<<<<<< HEAD
 <<<<<<< HEAD
           },
           {
@@ -213,6 +236,11 @@
         ],
         "currentTab": 4
 >>>>>>> 44422ee (Workspace)
+=======
+          }
+        ],
+        "currentTab": 4
+>>>>>>> 44422ee (Workspace)
       }
     ],
     "direction": "horizontal",
@@ -231,8 +259,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "homepage:Open homepage": false,
       "periodic-notes:Open today": false
+=======
+      "homepage:Open homepage": false
+>>>>>>> 44422ee (Workspace)
 =======
       "homepage:Open homepage": false
 >>>>>>> 44422ee (Workspace)
@@ -240,6 +272,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
 <<<<<<< HEAD
     "Simplex Methods.md",
     "Home.md",
@@ -278,6 +311,8 @@
     "Linear Programming/Flash Cards",
     "Linear Programming/Images",
 =======
+=======
+>>>>>>> 44422ee (Workspace)
     "Sensitivity Analysis & Duality.md",
     "Risks and Challenges.md",
     "Data Types and Distributions.md",
@@ -314,6 +349,9 @@
     "Excalidraw/CommonITResources.excalidraw.md",
     "Excalidraw/HostGuestDiagram.excalidraw.md",
     "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
+<<<<<<< HEAD
+>>>>>>> 44422ee (Workspace)
+=======
 >>>>>>> 44422ee (Workspace)
     "Untitled Diagram.svg",
     "Untitled.canvas",
