@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Pink Topaz",
+  "accentColor": "#ff94dd",
+  "cssTheme": "Ultra Lobster",
   "enabledCssSnippets": [
     "image_center",
     "font"

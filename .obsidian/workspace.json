@@ -106,7 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md",
+=======
+                "file": "Templates/Tikz Graph.md",
+>>>>>>> 44422ee (Workspace)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Cloud Delivery Models Deployment Models"
+=======
+              "title": "Backlinks for Tikz Graph"
+>>>>>>> 44422ee (Workspace)
             }
           },
           {
@@ -125,12 +133,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md",
+=======
+                "file": "Curse of Gavin/Grub Child.md",
+>>>>>>> 44422ee (Workspace)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Cloud Delivery Models Deployment Models"
+=======
+              "title": "Outgoing links from Grub Child"
+>>>>>>> 44422ee (Workspace)
             }
           },
           {
@@ -152,10 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Cloud Delivery Models Deployment Models.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Cloud Delivery Models Deployment Models"
+=======
+                "file": "Templates/Tikz Graph.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tikz Graph"
+>>>>>>> 44422ee (Workspace)
             }
           },
           {
@@ -167,6 +190,7 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+<<<<<<< HEAD
           },
           {
             "id": "6b47f20dd288abb6",
@@ -184,6 +208,11 @@
           }
         ],
         "currentTab": 2
+=======
+          }
+        ],
+        "currentTab": 4
+>>>>>>> 44422ee (Workspace)
       }
     ],
     "direction": "horizontal",
@@ -201,12 +230,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+<<<<<<< HEAD
       "homepage:Open homepage": false,
       "periodic-notes:Open today": false
+=======
+      "homepage:Open homepage": false
+>>>>>>> 44422ee (Workspace)
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Simplex Methods.md",
     "Home.md",
     "Homework/Linear Programming/A5.md",
@@ -243,6 +277,44 @@
     "Linear Programming/Note 1.md",
     "Linear Programming/Flash Cards",
     "Linear Programming/Images",
+=======
+    "Sensitivity Analysis & Duality.md",
+    "Risks and Challenges.md",
+    "Data Types and Distributions.md",
+    "Cloud Delivery Models Deployment Models.md",
+    "What is Cloud Computing?.md",
+    "Linear Regression.md",
+    "README.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Home.md",
+    "Templates/Tikz Graph.md",
+    "Templates",
+    "Basic Scaling.md",
+    "Curse of Gavin/Grub Child.md",
+    "Curse of Gavin/Old king.md",
+    "Curse of Gavin/Spellbook.md",
+    "Curse of Gavin/Curator.md",
+    "Cloud Computing/Basic Scaling.md",
+    "Homework/Cloud Computing/A1.md",
+    "conflict-files-obsidian-git.md",
+    "Homework/Cloud Computing",
+    "Homework",
+    "Curse of Gavin",
+    "Cloud Computing/What is Cloud Computing?.md",
+    "Flash Cards",
+    "Images",
+    "Soon To Move",
+    "Cloud Computing/Risks and Challenges.md",
+    "Cloud Computing/Cloud Delivery Models Deployment Models.md",
+    "Linear Programming/Note 1.md",
+    "Linear Programming/Flash Cards",
+    "Linear Programming/Images",
+    "Linear Programming",
+    "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
+    "Excalidraw/CommonITResources.excalidraw.md",
+    "Excalidraw/HostGuestDiagram.excalidraw.md",
+    "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
+>>>>>>> 44422ee (Workspace)
     "Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"

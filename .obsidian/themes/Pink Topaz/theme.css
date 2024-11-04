@@ -294,7 +294,8 @@ to get a right-side note block
 
 */
 
-:root{
+:root{ 
+ --tikz-line-color: inherit !important; /* Allow inheritance of line color */
   --font-size-obsidian-titlebar:             0.75em;
   --font-size-vault-name:                    0.875em;/*左侧库名字体大小*/
   --font-size-file-header-title:             0.9375em;/*文件抬头标题，只在非Andy mode plugin时生效*/
@@ -5501,4 +5502,13 @@ pre[class*='language-txt']:before {
 }
 .theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-variable-3, .theme-dark .cm-s-obsidian span.cm-math.cm-variable-3, .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-3 {
     color: #ae6ce7;
+}
+
+.tikz-graph line {
+    stroke: inherit !important; /* Force lines to inherit color */
+    stroke: red !important; /* Fallback to red */
+}
+
+.tikz-graph polygon {
+    fill: inherit !important; /* Allow fills to inherit colors */
 }
