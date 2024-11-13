@@ -14,5 +14,6 @@
   "homepage",
   "calendar",
   "quick-latex",
-  "obsidian-tikzjax"
+  "obsidian-tikzjax",
+  "obsidian-plantuml"
 ]

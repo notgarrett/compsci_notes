@@ -13,7 +13,7 @@ How would changes in the problem's object function coefficients or the contraint
 ```
 
 ## Example: Giapetto problem
-
+2
 $$\begin{align*}
 max(z) &= 3x_{1}+ 2x_{2}\\
 2x_{1}+x_{2}&\le 100\\
@@ -21,23 +21,6 @@ x_{1}+ x_{2} &\le 80\\
 x_{1}&\le 40\\
 x_{1},x_{2}&\ge 0
 \end{align*}$$
-
-```tikz
-\begin{document}
-
-\begin{tikzpicture}
-	\definecolor{myRed}{RGB}{255,0,0} % Define a custom red color
-    % Draw axes
-    \draw[->] (0,0) -- (10,0) node[right] {$x$};
-    \draw[->] (0,0) -- (0,10) node[above] {$y$};
-
-    % Draw a red line
-    \draw[color=pink, thick] (1,1) -- (5,5) node[midway, above right] {Red Line};
-\end{tikzpicture}
-
-\end{document}
-```
-
 
 Our optimal solution to this problem was $z = 180, x_{1}=20, x_{2}=60$ and it has $x_{1}, x_{2}, s_{3}$ as basic variables. (s3 is a slack variable for the demand constraint)
 

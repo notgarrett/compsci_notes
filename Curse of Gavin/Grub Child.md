@@ -2,8 +2,9 @@ Level: 1
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
-Heritage: Surki (Size Medium)
+Heritage: Surki (Size Medium)2
 Speed: 35 (+5 from feats)
+Languages: Common, Fey, Elven
 
 # Stats
 ## Attributes
@@ -27,7 +28,7 @@ Will: 10
 
 Focus Points: 3/3
 
-Cursebound: 2
+Curse-bound: 0
 
 ## Feats
 
@@ -53,13 +54,6 @@ Divine Effusion
 Mystery Conduit
 
 ### Witch:
-
-
-
-
-
-
-
 
 
 # Spells
@@ -103,6 +97,11 @@ Fear -
 Acrobatics(): 3
 Arcana(): 4
 Crafting(): 4
-Cursed Lord(T): 7
+Cursed Lore(T): 7
 Occultism(E): 9
 Religion(T): 4
+
+# Inventory
+- Rusted Dagger
+- 
+

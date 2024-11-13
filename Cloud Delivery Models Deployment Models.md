@@ -80,13 +80,60 @@ Basically a product or utility where the user gets little to no administrative c
 - Community Cloud
 - Private Cloud
 - Hybrid Cloud
-\shutdown now
 
 ## Public Cloud
 
+**Definition:** A public cloud is a publicly accessible cloud environment owned by a third party cloud provider.
+
+IT resources on a public cloud are generally offered to cloud consumers at a cost or are commercialised via other avenues. (Example being advertisement)
+
+The cloud provider is responsible for the creation and on going maintenance of the public cloud and pertaining resources.
+
 ## Community Cloud
+
+**Definition:** Similar to a public cloud, however its access is limited to a specific *community* of cloud consumers.
+
+The community cloud may be jointly owned by the *community members* or by a *third party cloud provider* that provisions a public cloud with limited access.
 
 ## Private Cloud
 
+**Definition:** A private cloud is owned by a **single** organisation.
+
+Private cloud enables an organisation to use cloud computing technology as a means of centralising access to IT resources by:
+- different parts
+- locations
+- departments of the same organisation
+
+The actual **administration** of a private cloud environment may be carried out by internal and outsourced staff.
+
+With a private cloud, the same organisation is both consumer and provider by definition. To differentiate these roles:
+- A seperate organisation department assumes the responsibility for provisioning the cloud.
+- Departments requiring access to the cloud assume the cloud consumer role.
+
 ## Hybrid Cloud
+
+**Definition:** A cloud environment comprised of two or more different cloud deployment models.
+
+An example: A cloud consumer may choose to deploy cloud services processing sensitive data to a private cloud and less sensitive cloud services to a public cloud.
+
+Hybrid deployment architecture is more complex and challenging due to the potential disparity in cloud environments.
+
+# Availability
+
+Cloud hardware is essentially built around a large cluster of servers. Clusters are inherently highly available due to redundancy brought by independent servers used in the cluster. In case of a single server failure, the jobs running on VMs hosted in the failing server can be migrated to surviving server hosts under software control.
+
+High availability, or HA, is desired in all server clusters. Since a cloud system is essentially built on server clusters, HA also becomes a critical requirement. 
+
+A cluster system is highly available if:
+- It has long MTTF, the average system up-time between two adjacent failures.
+- It has short MTTR, the average downtime after a failure or shutdown.
+
+```ad-info
+MTTF stands for mean time to failure.
+MTTR stands for mean time to repair.
+
+$$ClusterAvailability = \frac{MTTF}{MTTF + MTTR}$$
+```
+
+
 

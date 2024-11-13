@@ -13,29 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Curse of Gavin/Grub Child.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Grub Child"
+            }
+          },
+          {
+            "id": "190c23d787a39e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Gavin/Grub Child.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grub Child"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "306c796df5568197",
+    "id": "7dd3ff5e5e435d59",
     "type": "split",
     "children": [
       {
-        "id": "0d23c0fb744352d1",
+        "id": "1587845a138fe1dc",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb1e00f4c4b89ca",
+            "id": "3b0dd8b267d83921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a38c630e02ae5e76",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,7 +79,7 @@
             }
           },
           {
-            "id": "e724a4a006467f47",
+            "id": "2e5718c89ebd6c34",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -60,61 +87,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "826f4e62452ffedf",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b844097e3c535dd4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.50000381469727
+    "width": 300
   },
   "right": {
-    "id": "de570007732ad258",
+    "id": "e4b349921c37da24",
     "type": "split",
     "children": [
       {
-        "id": "b6f380401e8ab002",
+        "id": "6f90b5206731490a",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e5c7c2526fb47a",
+            "id": "66174fad2d45ec52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Cloud Delivery Models Deployment Models.md",
-=======
-                "file": "Templates/Tikz Graph.md",
->>>>>>> 44422ee (Workspace)
-=======
-                "file": "Templates/Tikz Graph.md",
->>>>>>> 44422ee (Workspace)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,49 +117,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "Backlinks for Cloud Delivery Models Deployment Models"
-=======
-              "title": "Backlinks for Tikz Graph"
->>>>>>> 44422ee (Workspace)
-=======
-              "title": "Backlinks for Tikz Graph"
->>>>>>> 44422ee (Workspace)
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d7a51f0f397491d6",
+            "id": "382439894aef2adc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Cloud Delivery Models Deployment Models.md",
-=======
-                "file": "Curse of Gavin/Grub Child.md",
->>>>>>> 44422ee (Workspace)
-=======
-                "file": "Curse of Gavin/Grub Child.md",
->>>>>>> 44422ee (Workspace)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "title": "Outgoing links from Cloud Delivery Models Deployment Models"
-=======
-              "title": "Outgoing links from Grub Child"
->>>>>>> 44422ee (Workspace)
-=======
-              "title": "Outgoing links from Grub Child"
->>>>>>> 44422ee (Workspace)
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0c59a8b01773e017",
+            "id": "83b10ff6ff2111ab",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,32 +147,17 @@
             }
           },
           {
-            "id": "fd828ba07ad05ded",
+            "id": "df343e5e4d6577ef",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-                "file": "Cloud Delivery Models Deployment Models.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Cloud Delivery Models Deployment Models"
-=======
-=======
->>>>>>> 44422ee (Workspace)
-                "file": "Templates/Tikz Graph.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Tikz Graph"
-<<<<<<< HEAD
->>>>>>> 44422ee (Workspace)
-=======
->>>>>>> 44422ee (Workspace)
+              "title": "Outline"
             }
           },
           {
-            "id": "7338312b66d6e55f",
+            "id": "5132978738361f53",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -212,35 +165,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-<<<<<<< HEAD
-<<<<<<< HEAD
-          },
-          {
-            "id": "6b47f20dd288abb6",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 2
-=======
-          }
-        ],
-        "currentTab": 4
->>>>>>> 44422ee (Workspace)
-=======
-          }
-        ],
-        "currentTab": 4
->>>>>>> 44422ee (Workspace)
       }
     ],
     "direction": "horizontal",
@@ -258,103 +185,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-<<<<<<< HEAD
-<<<<<<< HEAD
       "homepage:Open homepage": false,
       "periodic-notes:Open today": false
-=======
-      "homepage:Open homepage": false
->>>>>>> 44422ee (Workspace)
-=======
-      "homepage:Open homepage": false
->>>>>>> 44422ee (Workspace)
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "190c23d787a39e00",
   "lastOpenFiles": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "Simplex Methods.md",
+    "Curse of Gavin/Spellbook.md",
+    "Curse of Gavin/Grub Child.md",
+    "Curse of Gavin/Old king.md",
+    "Curse of Gavin/The day we came.md",
     "Home.md",
+    "Cloud Enabling Technology.md",
+    "Cloud Delivery Models Deployment Models.md",
+    "2024-11-08.md",
+    "Risks and Challenges.md",
+    "Basic Scaling.md",
+    "What is Cloud Computing?.md",
     "Homework/Linear Programming/A5.md",
-    "What is Cloud Computing?.md",
-    "Homework/Linear Programming",
-    "Homework/Untitled.md",
-    "Templates/Untitled.md",
-    "Linear Regression.md",
-    "Risks and Challenges.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Basic Scaling.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "Data Types and Distributions.md",
-    "conflict-files-obsidian-git.md",
-    "Curse of Gavin/Spellbook.md",
-    "Curse of Gavin/Old king.md",
-    "2024-10-18.md",
-    "README.md",
-    "2024-10-31.md",
-    "Templates/Header Template.md",
-    "Templates",
-    "Excalidraw/DataDiagram.excalidraw.md",
-    "Excalidraw/HostGuestDiagram.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-17 23.15.32.excalidraw.md",
-    "Homework/Cloud Computing/A1.md",
-    "Homework/Cloud Computing",
-    "Homework",
-    "Curse of Gavin/Grub Child.md",
-    "Curse of Gavin/Curator.md",
-    "Curse of Gavin",
-    "Flash Cards",
-    "Images",
-    "Soon To Move",
-    "Linear Programming/Note 1.md",
-    "Linear Programming/Flash Cards",
-    "Linear Programming/Images",
-=======
-=======
->>>>>>> 44422ee (Workspace)
+    "Test 2 Theory and Examples.md",
     "Sensitivity Analysis & Duality.md",
-    "Risks and Challenges.md",
-    "Data Types and Distributions.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "What is Cloud Computing?.md",
-    "Linear Regression.md",
-    "README.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Home.md",
-    "Templates/Tikz Graph.md",
-    "Templates",
-    "Basic Scaling.md",
-    "Curse of Gavin/Grub Child.md",
-    "Curse of Gavin/Old king.md",
-    "Curse of Gavin/Spellbook.md",
-    "Curse of Gavin/Curator.md",
-    "Cloud Computing/Basic Scaling.md",
-    "Homework/Cloud Computing/A1.md",
-    "conflict-files-obsidian-git.md",
-    "Homework/Cloud Computing",
-    "Homework",
-    "Curse of Gavin",
-    "Cloud Computing/What is Cloud Computing?.md",
-    "Flash Cards",
-    "Images",
-    "Soon To Move",
-    "Cloud Computing/Risks and Challenges.md",
-    "Cloud Computing/Cloud Delivery Models Deployment Models.md",
-    "Linear Programming/Note 1.md",
-    "Linear Programming/Flash Cards",
-    "Linear Programming/Images",
-    "Linear Programming",
-    "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
-    "Excalidraw/CommonITResources.excalidraw.md",
-    "Excalidraw/HostGuestDiagram.excalidraw.md",
-    "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
-<<<<<<< HEAD
->>>>>>> 44422ee (Workspace)
-=======
->>>>>>> 44422ee (Workspace)
-    "Untitled Diagram.svg",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Simplex Methods.md"
   ]
 }
