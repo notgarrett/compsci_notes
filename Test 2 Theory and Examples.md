@@ -118,3 +118,7 @@
 
 #### Changing RHS of a constraint
 - If current optimal solution becomes infeasible, just use dual simplex to solve for new optimal tableau
+
+
+**Dual simplex is always minimising always.**
+$$min(abs(\frac{R_{0}}{R_{p}}))$$

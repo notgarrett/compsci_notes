@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cloud Enabling Technology.md",
-                "mode": "source",
-                "source": false
+                "file": "Test 3 Notes.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Cloud Enabling Technology"
+              "icon": "lucide-file-text",
+              "title": "Test 3 Notes"
             }
           }
         ]
@@ -77,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e4b349921c37da24",
@@ -177,22 +174,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
-    "Cloud Enabling Technology.md",
-    "Homework/Linear Programming/A5.md",
-    "Simplex Methods.md",
-    "Data Types and Distributions.md",
-    "Curse of Gavin/Curator.md",
-    "Curse of Gavin/Grub Child.md",
-    "Curse of Gavin/Old king.md",
-    "Curse of Gavin/Spellbook.md",
-    "Curse of Gavin/The day we came.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "2024-11-08.md",
-    "Risks and Challenges.md",
-    "Basic Scaling.md",
-    "What is Cloud Computing?.md",
     "Test 2 Theory and Examples.md",
+    "Test 3.md",
+    "Homework/Linear Programming/A5.md",
+    "Test 3 Notes.pdf",
+    "Risks and Challenges.md",
+    "Linear Regression.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Cloud Enabling Technology.md",
+    "Data Types and Distributions.md",
+    "Cloud Delivery Models Deployment Models.md",
+    "Basic Scaling.md",
+    "Home.md",
+    "Curse of Gavin/Grub Child/Feat + Features.md",
+    "Curse of Gavin/Grub Child/Grub Child.md",
+    "Curse of Gavin/Grub Child",
+    "Curse of Gavin/Spellbook.md",
+    "Curse of Gavin/Curator.md",
+    "Curse of Gavin/The day we came.md",
+    "Curse of Gavin/Old king.md",
+    "Homework/Linear Programming/A7.md",
+    "Simplex Methods.md",
+    "2024-11-08.md",
+    "What is Cloud Computing?.md",
     "Sensitivity Analysis & Duality.md"
   ]
 }

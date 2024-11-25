@@ -1,10 +1,10 @@
-Level: 1
+Level: 1 (SOON TO BE 5???)
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
 Heritage: Surki (Size Medium)2
 Speed: 35 (+5 from feats)
-Languages: Common, Fey, Elven
+Languages: Common, Fey, Elven, Aclo
 
 # Stats
 ## Attributes
@@ -16,6 +16,7 @@ Languages: Common, Fey, Elven
 | Intelligence | 4   |     |
 | Wisdom       | 1   |     |
 | Charisma     | 0   |     |
+|              |     |     |
 
 ## Defences
 
@@ -35,26 +36,29 @@ Curse-bound: 0
 ### Elf:
 Nimble Elf (+5 speed)
 
+
 ### Surki
 N/A
 
 ### Oracle:
 
-Domain Acumen
-Thousand Visions
-Advanced Revelation
-Read Disaster
+Domain Acumen -
+Thousand Visions -
+Advanced Revelation -
+Read Disaster -
 
-Roll the bones of fate - https://app.demiplane.com/nexus/pathfinder2e/feats/roll-the-bones-of-fate-rm
+[[https://app.demiplane.com/nexus/pathfinder2e/feats/roll-the-bones-of-fate-rm |Roll the bones of fate]]
 
-Domain Fluency
-Revelations focus
-The dead walk ( I am so broken my god )
-Divine Effusion
-Mystery Conduit
+Domain Fluency -
+Revelations focus -
+The dead walk ( I am so broken my god ) -- Change this out
+Divine Effusion - https://2e.aonprd.com/Feats.aspx?ID=6085
+Mystery Conduit - https://2e.aonprd.com/Feats.aspx?ID=6086
 
 ### Witch:
 
+Cackle
+Lesson
 
 # Spells
 
@@ -78,16 +82,14 @@ Purifying Icicle -
 Pest Form - https://2e.aonprd.com/Spells.aspx?ID=1626
 
 ### Hexes
-Buzzing Bites - https://2e.aonprd.com/Spells.aspx?ID=1089
-
+[[https://2e.aonprd.com/Spells.aspx?ID=1089 |Buzzing Bites]]
+Patrons Puppet
 #### Cantrips
-Electric Arc - https://2e.aonprd.com/Spells.aspx?ID=1509&Redirected=1
-
-Prestidigation - https://2e.aonprd.com/Spells.aspx?ID=1639
-
-Protect Campanion - 
-Inside Rope - 
-Detect Magic -
+[[https://2e.aonprd.com/Spells.aspx?ID=1509&Redirected=1 |`Electric Arc]] 
+[[https://2e.aonprd.com/Spells.aspx?ID=1639 |Prestidigation]]
+[[https://2e.aonprd.com/Spells.aspx?ID=975 |Protect Campanion]]
+[[https://2e.aonprd.com/Spells.aspx?ID=1206|Inside Rope]]
+[[https://2e.aonprd.com/Actions.aspx?ID=2624|Detect Magic]]
 
 #### 1st Level
 Grease - 
@@ -95,13 +97,17 @@ Fear -
 
 # Skills
 Acrobatics(): 3
-Arcana(): 4
+Arcana(L): 4
 Crafting(): 4
 Cursed Lore(T): 7
 Occultism(E): 9
 Religion(T): 4
 
+## Skill Feats
+Quick Identification - level 2
+Odity Identification - level 4
+Unified Theory - idk
+
 # Inventory
 - Rusted Dagger
-- 
 
