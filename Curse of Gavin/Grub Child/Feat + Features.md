@@ -36,6 +36,7 @@ Basic Lesson (Lesson of Vengeance)
 		- **Failure** The target takes full initial and persistent damage, and the target is [sickened 1](https://2e.aonprd.com/Conditions.aspx?ID=34). If the target recovers from being sickened, the persistent damage ends and the spell ends.  
 		- **Critical Failure** As failure, but the target is sickened 2.
 
+<<<<<<< HEAD
 
 **Oracle Class Feats:** 
 Domain Acumen (Vigil)
@@ -45,16 +46,25 @@ Domain Acumen (Vigil)
 	- 1 minute.
 	- Targets 1 minute.
 
+=======
+**Oracle Class Feat:** Domain Acumen
+
+**Witch Feature:** 
+>>>>>>> 2540013 (Joy..)
 
 Thousand Visions
 - You open your senses to numerous visions of the immediate future. The visions grant you subtle details of your immediate surroundings within 30 feet. Within this range, you don't need to succeed at a flat check to target a concealed creature, you're not [off-guard](https://2e.aonprd.com/Conditions.aspx?ID=58) to creatures that are [hidden](https://2e.aonprd.com/Conditions.aspx?ID=79) from you (unless you're off-guard to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature. Beyond 30 feet, the visions become overwhelmed with too many possible futures, making all of your senses imprecise beyond this range. The visions persist for 1 minute.
 
+<<<<<<< HEAD
 Advanced Revelation
 - Divine power reveals greater mysteries to you. You learn the advanced revelation spell associated with your mystery.
 - Bone Armor
 	- You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.
 	- 1 minute.
 	- **Heightened (+1)** The resistance increases by 1.
+=======
+**Skill Feat:** 
+>>>>>>> 2540013 (Joy..)
 
 Read Disaster
 - You spend 10 minutes and open yourself to the [divine](https://2e.aonprd.com/Traits.aspx?ID=579) mysteries of the world, peering into the most sinister portents of the future. You gain the effects of [_augury_](https://2e.aonprd.com/Spells.aspx?ID=1445), except you learn only about the dangers ahead; any results of “good” are instead “nothing,” and results of “mixed” are instead “bad.” If you are legendary in [Religion](https://2e.aonprd.com/Skills.aspx?ID=46), you take only 1 minute to [Read Disaster](https://2e.aonprd.com/Feats.aspx?ID=1496).
@@ -76,11 +86,15 @@ Domain Fluency (Vigil)
 	- **Heightened (+1)** The damage increases by 2d6 (or 2d10 to an enemy when you name a specific victim).
 
 
+<<<<<<< HEAD
 Revelations Focus
 - The further extents of your mystery provide an endless wellspring of magic. When you [Refocus](https://2e.aonprd.com/Actions.aspx?ID=2621), you regain all your Focus Points instead of 1.
 
 Forestall Curse
 - You've learned to hold back your [curse](https://2e.aonprd.com/Traits.aspx?ID=566). If the next action you use is a [cursebound](https://2e.aonprd.com/Traits.aspx?ID=800) ability, your cursebound value doesn't increase.
+=======
+**Witch Feature:**
+>>>>>>> 2540013 (Joy..)
 
 [[https://2e.aonprd.com/Feats.aspx?ID=6085|Divine Effusion]]
 - The power of your mystery surges through you like a font of [divine](https://2e.aonprd.com/Traits.aspx?ID=579) energy, even when your own magic dwindles. Twice per day, you can cast a spell after you've run out of spell slots of the appropriate spell rank; the two spells you cast with this feat must be of different spell ranks.
@@ -96,4 +110,32 @@ Forestall Curse
 Fleet
 - +5
 
+<<<<<<< HEAD
+=======
+**Oracle Class Feat:**
+
+**Witch Feature:**
+
+**Oracle Feature:** 
+
+**Skill Feat:**
+
+**General Feat:**
+
+# Level 5
+
+**Ancestry Feat:**
+
+**Witch Class Feat:**
+
+**Oracle Class Feat:**
+
+**Witch Feature:**
+
+**Oracle Feature:** 
+
+**Skill Feat:**
+
+**General Feat:**
+>>>>>>> 2540013 (Joy..)
 
