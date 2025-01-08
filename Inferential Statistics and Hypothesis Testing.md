@@ -1,3 +1,9 @@
+---
+tags:
+  - statistics
+date: 2025-01-07
+---
+
 # Inferential Statistics
 
 **Inferential Statistics:** The way of making *inferences* about *population* based on *samples*. We assume characteristics about the sample is similar to the population's statistics.

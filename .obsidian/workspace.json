@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Introduction to Computer Graphics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Introduction to Computer Graphics"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7dd3ff5e5e435d59",
+    "id": "65f8691310f8cd69",
     "type": "split",
     "children": [
       {
-        "id": "1587845a138fe1dc",
+        "id": "ee9826c802aa0619",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0dd8b267d83921",
+            "id": "074e6c3ebd7c184c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "a38c630e02ae5e76",
+            "id": "64c1ce2459519ee0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "2e5718c89ebd6c34",
+            "id": "2fbcbad7c9cabaae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,18 +77,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "e4b349921c37da24",
+    "id": "1da760de9057345e",
     "type": "split",
     "children": [
       {
-        "id": "6f90b5206731490a",
+        "id": "327d0fe1a5148424",
         "type": "tabs",
         "children": [
           {
-            "id": "66174fad2d45ec52",
+            "id": "84fb126a50782ed4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +107,7 @@
             }
           },
           {
-            "id": "382439894aef2adc",
+            "id": "9e1b713a81ef71ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +120,7 @@
             }
           },
           {
-            "id": "83b10ff6ff2111ab",
+            "id": "b29e0d5b8154e2ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +133,7 @@
             }
           },
           {
-            "id": "df343e5e4d6577ef",
+            "id": "e31c2c9a0028a32e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -142,7 +143,7 @@
             }
           },
           {
-            "id": "5132978738361f53",
+            "id": "c0dd0848b4c3caae",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,7 +153,7 @@
             }
           },
           {
-            "id": "c802210503d24aab",
+            "id": "8570f810298fd2a2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -187,54 +188,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Data Types and Distributions.md",
-    "Home.md",
-    "Cloud Infrastructure Mechanism.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "Cloud Enabling Technology.md",
-    "Templates/Tikz Graph.md",
-    "Basic Scaling.md",
-    "Untitled.md",
-    "What is Cloud Computing?.md",
     "Simplex Methods.md",
-    "Sensitivity Analysis & Duality.md",
-    "Risks and Challenges.md",
-    "Linear Regression.md",
-    "Curse of Gavin/Grub Child/Spell Book.md",
-    "Curse of Gavin/Grub Child/Savess.md",
-    "Curse of Gavin/Grub Child/Skills.md",
-    "Curse of Gavin/Grub Child/Feat + Features.md",
-    "Curse of Gavin/Belindo Bautista.md",
-    "Curse of Gavin/College of Lumberton.md",
-    "Curse of Gavin/Sir Antoine Sinclair.md",
-=======
-    "Curse of Gavin/Grub Child/Feat + Features.md",
-    "Curse of Gavin/Grub Child/Grub Child.md",
-    "Curse of Gavin/Curator.md",
-    "Home.md",
-    "Test 3 Notes.pdf",
-    "Test 2 Theory and Examples.md",
-    "Test 3.md",
-    "Homework/Linear Programming/A5.md",
-    "Risks and Challenges.md",
-    "Linear Regression.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Cloud Enabling Technology.md",
-    "Data Types and Distributions.md",
-    "Cloud Delivery Models Deployment Models.md",
     "Basic Scaling.md",
-    "Curse of Gavin/Grub Child",
-    "Curse of Gavin/Spellbook.md",
->>>>>>> 2540013 (Joy..)
-    "Curse of Gavin/The day we came.md",
-    "Curse of Gavin/Sheila Blackthorn.md",
-    "Curse of Gavin/Grub Child/Combat Strategy.md",
-    "Curse of Gavin/Spellbook.md",
-    "Curse of Gavin/Old king.md",
-    "Flash Cards/Cloud Cards",
-    "Test 3 Notes.pdf",
-    "Curse of Gavin/Grub Child"
+    "Cloud Delivery Models Deployment Models.md",
+    "Cloud Enabling Technology.md",
+    "Cloud Infrastructure Mechanism.md",
+    "Data Types and Distributions.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Home.md",
+    "Linear Regression.md",
+    "README.md",
+    "Risks and Challenges.md",
+    "Sensitivity Analysis & Duality.md"
   ]
 }

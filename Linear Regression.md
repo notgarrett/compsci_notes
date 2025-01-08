@@ -1,3 +1,8 @@
+---
+tags:
+  - statistics
+date: 2025-01-07
+---
 
 # Regression Analysis
 
