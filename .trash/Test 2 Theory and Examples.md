@@ -1,4 +1,4 @@
-## 4.13 Two-Phase simplex
+#u 4.13 Two-Phase simplex
 1. First, make sure all RHS of constraints are non-negative. Multiply $-1$ through if needed to make RHS non-negative.
 2. Make note of any constraint that is an $=$ or $\geq$ constraint.
 3. Convert to standard form using slack and excess variables

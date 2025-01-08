@@ -1,9 +1,10 @@
-Level: 1 (SOON TO BE 5???)
+Level: 5
+Age: 20
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
 Heritage: Surki (Size Medium)2
-Speed: 35 (+5 from feats)
+Speed: 40 (+10 from feats)
 Languages: Common, Fey, Elven, Aclo
 
 # Stats
@@ -11,21 +12,23 @@ Languages: Common, Fey, Elven, Aclo
 
 | Strength     | 0   |     |
 | ------------ | --- | --- |
-| Dexterity    | 3   |     |
-| Constitution | 1   |     |
-| Intelligence | 4   |     |
-| Wisdom       | 1   |     |
+| Dexterity    | 4   |     |
+| Constitution | 2   |     |
+| Intelligence | 4.5 |     |
+| Wisdom       | 2   |     |
 | Charisma     | 0   |     |
-|              |     |     |
+
+Perception: 2 (wis) + 4 (expert) + 5 (level) = 11
++2 if its combat
 
 ## Defences
 
-HP: 13/13
-Armour Class: 18
+HP: 42/42
+Armour Class: 23 + 5(Mystic armour) = 27
 
-Fort: 6
-Reflex: 8
-Will: 10
+Fort: 11
+Reflex: 13
+Will: 15
 
 Focus Points: 3/3
 
@@ -109,5 +112,9 @@ Odity Identification - level 4
 Unified Theory - idk
 
 # Inventory
-- Rusted Dagger
+- Rusted Dagger (Magic)
+- Another rusted dagger
+- Note from abyss (she has a note)
+
+
 

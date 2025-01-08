@@ -1,3 +1,9 @@
+---
+tags:
+  - statistics
+date: 2025-01-07
+---
+
 # Data types
 
 **Qualitative Data:** Data that is categorical. This means the data is organised by category. For example, how many people's favourite colour is blue, green, or red. 

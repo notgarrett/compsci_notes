@@ -15,5 +15,7 @@
   "calendar",
   "quick-latex",
   "obsidian-tikzjax",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "obsidian-spaced-repetition",
+  "google-calendar"
 ]

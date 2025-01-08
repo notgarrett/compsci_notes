@@ -90,3 +90,23 @@ UDP: Some multicast and streaming applications, voice and video.
 Protocols such as HTTP, SMTP for email, BitTorrent for P2P, and SIP for IP telephony use transport layer protocols to standardise and enable specific data packet transferring methods over the internet. 
 
 ## Technical and Business Considerations
+
+### Connectivity
+In traditional, on-premise deployment models, enterprise applications and various It solutions are commonly hosted on centralised servers and storage devices residing in the organisation;s own data centre.
+
+Reliable connectivity must be provided for both cloud provider and consumer.
+
+### Network Bandwidth and Latency
+
+End-to-end bandwidth is determined by the transmission capacity of the  
+shared data links that connect intermediary nodes. Also referred to as time delay, latency is the amount of time it takes a packet to travel from one data node to another. 
+
+Latency increases with every intermediary node on the data packet’s path. Dependent on traffic conditions in shared nodes/links, Internet latency can be highly variable and often unpredictable. 
+
+Bandwidth is critical for applications that require substantial amounts of data to be transferred to and from the cloud, while latency is critical for applications with a business requirement of swift response times. IT solutions need to be assessed against business requirements that are affected by network bandwidth and latency
+
+### Cloud Carrier and Cloud Provider Selection
+
+The service levels of Internet connections between cloud consumers and cloud providers are determined by their ISPs, which are usually different and therefore include multiple ISP networks in their paths.  
+
+QoS management across multiple ISPs is difficult to achieve in practice, requiring collaboration of the cloud carriers on both sides to ensure that their end-to-end service levels are sufficient for business requirements.

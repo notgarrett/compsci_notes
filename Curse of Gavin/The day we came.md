@@ -7,3 +7,7 @@ Letter for Amber (Blind Child): "You were clutching this in your hand, written i
 Letter for Caroline (Scaly Child): "We have no idea if you are from the capital or from that region but this letter briefly describes how sorry your parents are for abandoning you but was done out of necessity." 
 
 LORE DROP: HOODED MAN WAS WITH US, I DON'T REMEMBER THAT.
+
+It was the pale man(s). Also apparently the Abyss is a Hydra Cultist.
+
+">:("

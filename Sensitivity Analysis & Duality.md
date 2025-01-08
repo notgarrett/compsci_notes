@@ -13,7 +13,7 @@ How would changes in the problem's object function coefficients or the contraint
 ```
 
 ## Example: Giapetto problem
-2
+
 $$\begin{align*}
 max(z) &= 3x_{1}+ 2x_{2}\\
 2x_{1}+x_{2}&\le 100\\

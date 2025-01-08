@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Test 3 Notes.pdf"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Test 3 Notes"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -148,9 +150,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "c802210503d24aab",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,34 +181,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Test 2 Theory and Examples.md",
-    "Test 3.md",
-    "Homework/Linear Programming/A5.md",
-    "Test 3 Notes.pdf",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Data Types and Distributions.md",
+    "Home.md",
+    "Cloud Infrastructure Mechanism.md",
+    "Cloud Delivery Models Deployment Models.md",
+    "Cloud Enabling Technology.md",
+    "Templates/Tikz Graph.md",
+    "Basic Scaling.md",
+    "Untitled.md",
+    "What is Cloud Computing?.md",
+    "Simplex Methods.md",
+    "Sensitivity Analysis & Duality.md",
     "Risks and Challenges.md",
     "Linear Regression.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Cloud Enabling Technology.md",
-    "Data Types and Distributions.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "Basic Scaling.md",
-    "Home.md",
+    "Curse of Gavin/Grub Child/Spell Book.md",
+    "Curse of Gavin/Grub Child/Savess.md",
+    "Curse of Gavin/Grub Child/Skills.md",
     "Curse of Gavin/Grub Child/Feat + Features.md",
-    "Curse of Gavin/Grub Child/Grub Child.md",
-    "Curse of Gavin/Grub Child",
-    "Curse of Gavin/Spellbook.md",
-    "Curse of Gavin/Curator.md",
+    "Curse of Gavin/Belindo Bautista.md",
+    "Curse of Gavin/College of Lumberton.md",
+    "Curse of Gavin/Sir Antoine Sinclair.md",
     "Curse of Gavin/The day we came.md",
+    "Curse of Gavin/Sheila Blackthorn.md",
+    "Curse of Gavin/Grub Child/Combat Strategy.md",
+    "Curse of Gavin/Spellbook.md",
     "Curse of Gavin/Old king.md",
-    "Homework/Linear Programming/A7.md",
-    "Simplex Methods.md",
-    "2024-11-08.md",
-    "What is Cloud Computing?.md",
-    "Sensitivity Analysis & Duality.md"
+    "Flash Cards/Cloud Cards",
+    "Test 3 Notes.pdf",
+    "Curse of Gavin/Grub Child"
   ]
 }
