@@ -30,3 +30,21 @@ Computer graphics is concerned with the generation, representation, manipulation
 - In contrast to interactive computer graphics, non-interactive computer graphics do not allow you to determine how the computer generates images. Examples of non-interactive computer graphics include images for a website or mobile application, 3D animation, and CGI in film.
 
 # Cognitive Graphics
+
+Deals with algorithms to recognise and classify pictures.
+
+Think applications like:
+- Image classification AI.
+- Microscope pictures of bacterial colonies.
+	- I assume it means using the algorithms to sharpen or get more detail out of the image.
+
+# Image Processing Graphics
+
+Image processing apply techniques to modify or interpret existing pictures, such as photographs and TV scans.
+
+Used to improve and modify the quality of a picture(s). 
+
+First image is digitised and there it is given a colour pattern for improving colour quality.
+
+Image processing has sub sections like image enhancement, pattern detection and recognition, and scene analysis and computer vision.
+
