@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5f56e3f8e434dd66",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2852f1fa28af29ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Computer Graphics.md",
+                "file": "Introduction to Cryptography and Network Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Computer Graphics"
+              "title": "Introduction to Cryptography and Network Security"
+            }
+          },
+          {
+            "id": "c4d49921c73644ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Cryptography and Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Cryptography and Network Security"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,20 +201,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c4d49921c73644ad",
   "lastOpenFiles": [
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Cloud Enabling Technology.md",
+    "Data Types and Distributions.md",
+    "Cloud Infrastructure Mechanism.md",
+    "Excalidraw/Attacks Services and Security.md",
+    "Introduction to Cryptography and Network Security.md",
+    "Introduction to Computer Graphics.md",
+    "Excalidraw/OSI Security Architecture.md",
+    "Excalidraw/Drawing 2025-01-08 20.54.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 21.01.08.excalidraw.md",
+    "Sensitivity Analysis & Duality.md",
+    "Simplex Methods.md",
+    "Risks and Challenges.md",
+    "What is Cloud Computing?.md",
+    "2025-01-08.md",
+    "Excalidraw/UnreliableNetworkChallenge.excalidraw.md",
+    "Cavas/OSI Security Architecutre.canvas",
+    "Cavas",
     "Linear Regression.md",
     "Home.md",
-    "Introduction to Computer Graphics.md",
-    "Simplex Methods.md",
     "Basic Scaling.md",
     "Cloud Delivery Models Deployment Models.md",
-    "Cloud Enabling Technology.md",
-    "Cloud Infrastructure Mechanism.md",
-    "Data Types and Distributions.md",
-    "Inferential Statistics and Hypothesis Testing.md",
-    "README.md",
-    "Risks and Challenges.md",
-    "Sensitivity Analysis & Duality.md"
+    "README.md"
   ]
 }

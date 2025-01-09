@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b4011eced1d435eb","type":"text","text":"Security Attack","x":-65,"y":-140,"width":248,"height":71},
+		{"id":"22d4f5bd5efa6641","type":"text","text":"Any action that compromises the security of information owned by an organisation.","x":-65,"y":27,"width":248,"height":214},
+		{"id":"a5e8692656bba8a8","type":"text","text":"Security Mechanism\n","x":218,"y":-140,"width":248,"height":71},
+		{"id":"d34270a11f8a6fae","type":"text","text":"A process (or a device incorporating such a process) that is designed to detect, prevent, or recover from a security attack.","x":218,"y":27,"width":248,"height":286},
+		{"id":"8a89e7d3378a781f","type":"text","text":"Security Service","x":673,"y":-140,"width":248,"height":71},
+		{"id":"d3d35db79ff77d8a","type":"text","text":"A processing or communication service that enhances the security of the data processing systems and the information transfers of an organisation.","x":515,"y":27,"width":267,"height":333},
+		{"id":"a4c8b63dbc040555","type":"text","text":"Intended to counter security attacks, and they make use of one or more security mechanisms to provide the service.","x":813,"y":27,"width":267,"height":333}
+	],
+	"edges":[
+		{"id":"32f28d1016e3c151","fromNode":"b4011eced1d435eb","fromSide":"bottom","toNode":"22d4f5bd5efa6641","toSide":"top"},
+		{"id":"b0810e8051844ffa","fromNode":"a5e8692656bba8a8","fromSide":"bottom","toNode":"d34270a11f8a6fae","toSide":"top"},
+		{"id":"1c2f1b0f40a7869b","fromNode":"8a89e7d3378a781f","fromSide":"bottom","toNode":"d3d35db79ff77d8a","toSide":"top"},
+		{"id":"83060f7c3adabd10","fromNode":"8a89e7d3378a781f","fromSide":"bottom","toNode":"a4c8b63dbc040555","toSide":"top"}
+	]
+}
