@@ -1,6 +1,6 @@
 ---
 tags:
-  - computer_graphics
+  - "#computer_graphics"
 date: 2025-01-07
 ---
 # Definition of Computer Graphics

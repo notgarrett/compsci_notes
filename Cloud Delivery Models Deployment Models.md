@@ -1,7 +1,7 @@
 ---
 tags:
-  - cloud_computing
   - comp_4312
+  - "#cloud_computing"
 date: 2024-10-18
 ---
 # Cloud Delivery Models

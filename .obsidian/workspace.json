@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6dfa0275a1528a26",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6287b9ca6bd68828",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Templates/Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Note Template"
             }
           }
         ]
@@ -184,11 +184,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,40 +204,36 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open this month": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6287b9ca6bd68828",
   "lastOpenFiles": [
-    "Inferential Statistics and Hypothesis Testing.md",
-    "Linear Regression.md",
-    "Simplex Methods.md",
-    "Display Systems and Rasterization.md",
-    "Cloud Infrastructure Mechanism.md",
-    "Cloud Delivery Models Deployment Models.md",
-    "Home.md",
-    "Introduction to Cryptography and Network Security.md",
-    "Introduction to Computer Graphics.md",
-    "Sensitivity Analysis & Duality.md",
+    "Templates/Test Template.md",
+    "Templates/Tikz Graph.md",
+    "Untitled.md",
+    "Templates/Note Template.md",
+    "asd.md.md",
+    "asd.md.md",
+    "test.md.md",
+    ".md.md",
+    "god.md.md",
+    "please.md.md",
     "Risks and Challenges.md",
     "README.md",
+    "Sensitivity Analysis & Duality.md",
+    "Simplex Methods.md",
     "What is Cloud Computing?.md",
-    "Untitled.md",
-    "home/garrett/compsci_notes/test.md.md.md",
-    "home/garrett/compsci_notes/sa.md.md.md",
-    "Templates/Note Template.md",
-    "OH MY GOD.md.md",
-    "PLEASEPLEASA.md.md",
-    "GOD PLEASE.md.md",
-    "PLEASE.md.md",
-    "sa.md.md",
-    "Test.md.md",
-    "test.md.md",
+    "Mathematics/Combinatorics/Binomial Theorem.md",
+    "Mathematics/Combinatorics/Permutations and Combinations.md",
+    "Mathematics/Graph Theory/Adjacency Matrix's and Walks.md",
+    "Mathematics/Graph Theory/Graph Theory Basics.md",
+    "2025-01-11.md",
     "home/garrett/compsci_notes",
     "home/garrett",
     "home",
-    "Cloud Enabling Technology.md",
-    "Data Types and Distributions.md",
     "Cavas/OSI Security Architecutre.canvas",
     "Cavas"
   ]

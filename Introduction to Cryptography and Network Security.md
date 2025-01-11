@@ -1,6 +1,6 @@
 ---
 tags:
-  - cryptography_and_network_security
+  - "#cryptography_and_network_security"
 date: 2025-01-08
 ---
 # Cybersecurity

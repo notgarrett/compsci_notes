@@ -10,7 +10,6 @@
   "obsidian-charts",
   "templater-obsidian",
   "custom-font-loader",
-  "periodic-notes",
   "homepage",
   "calendar",
   "quick-latex",
@@ -19,5 +18,6 @@
   "obsidian-spaced-repetition",
   "google-calendar",
   "dataview",
-  "better-export-pdf"
+  "better-export-pdf",
+  "periodic-notes"
 ]

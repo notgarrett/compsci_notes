@@ -1,6 +1,6 @@
 ---
 tags:
-  - statistics
+  - "#statistics"
 date: 2025-01-07
 ---
 

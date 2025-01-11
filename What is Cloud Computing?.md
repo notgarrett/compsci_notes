@@ -1,7 +1,6 @@
 ---
 tags:
-  - cloud_computing
-  - comp_4312
+  - "#cloud_computing"
 date:
 ---
 
