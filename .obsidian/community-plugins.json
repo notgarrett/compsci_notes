@@ -17,5 +17,7 @@
   "obsidian-tikzjax",
   "obsidian-plantuml",
   "obsidian-spaced-repetition",
-  "google-calendar"
+  "google-calendar",
+  "dataview",
+  "better-export-pdf"
 ]
