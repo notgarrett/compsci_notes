@@ -134,3 +134,84 @@ This service addresses the security concerned raised via denial-of-service attac
 
 **Access control:** A variety of mechanisms that enforce access rights to resources.
 
+# Cryptography
+
+Cryptography is a branch of mathematics that deals with the transformation (encoding and decoding) of data.
+
+Cryptographic algorithms are used in many ways in information security and network security.
+
+# Cryptographic Algorithms 
+
+![[Cryptographic algorithms|100%]]
+
+## Keyless Algorithms
+
+Deterministic functions that have certain properties useful for cryptography.
+
+One type of keyless algorithm is the cryptographic hash function.
+- A hash function turns a variable amount of text into a small, fixed-length value called a hash value, hash code, or digest.
+- A cryptographic hash function is one that has additional properties that make it useful as part of another cryptographic algorithm, such as a message authentication code or a digital signature.
+
+A pseudorandom number generator produces a deterministic sequence of numbers or bits that has the appearance of being a truly random sequence.
+
+## Single-key Algorithms
+
+Single-key cryptographic algorithms depend on the use of the secret key.
+
+Encryption algorithms that use a single key are referred to as symmetric encryption algorithms.
+
+Symmetric encryption algorithms take forms such as:
+- Block cipher
+- Stream cipher
+
+## Asymmetric Algorithms
+
+Encryption algorithms that use different keys for coding and decoding are referred to as asymmetric encryption algorithms.
+
+Some examples of this are:
+- Digital signature algorithm
+- Key exchange
+- User authentication
+
+# Network Security
+
+Network security is a broad term that encompasses security of the communications pathways of the network and the security of network devices and devices attached to the network.
+
+![[elements of network security|100%]]
+
+
+
+# Communications Security
+
+Deals with the protection of communications through the network, including measures to protect against both passive and active attacks.
+
+Communications security is primarily implemented using network protocols.
+- A network protocol consists of the format and procedures that governs the transmitting and receiving of data between points in a network.
+- A protocol defines the structure of the individual data units and the control commands that manage the data transfer
+
+With respect to network security, a security protocol may be an enhancement that is part of an existing protocol or a standalone protocol.
+
+# Device Security
+
+The other aspect of network security is the protection of network devices, such as routers and switches, and end systems connected to the network, such as client systems and servers.
+
+the primary security concerns are intruders that gain access to the system to perform unauthorised actions, insert malicious software, or overwhelm system resources to diminish availability.
+
+Some examples of this are:
+- Firewall
+- Intrusion detection
+- Intrusion prevention
+
+# Standards 
+
+**National Institute of Standards and Technology:**
+- NIST is a U.S. federal agency that deals with measurement science, standards, and technology related to U.S. government use and to the promotion of U.S. private-sector innovation. Despite its national scope, NIST Federal Information Processing Standards (FIPS) and Special Publications (SP) have a worldwide impact.
+
+**Internet Society:**
+- ISOC is a professional membership society with worldwide organisational and individual membership. It provides leadership in addressing issues that confront the future of the Internet and is the organisation home for the groups responsible for Internet infrastructure standards, including the Internet Engineering Task Force (IETF) and the Internet Architecture Board (IAB). These organisations develop Internet standards and related specifications, all of which are published as Requests for Comments (RFCs).
+
+**ITU-T:**
+- The International Telecommunication Union (ITU) is an international organisation within the United Nations System in which governments and the private sector coordinate global telecom networks and services. The ITU Telecommunication Standardisation Sector (ITU-T) is one of the three sectors of the ITU. ITU-T’s mission is the development of technical standards covering all fields of telecommunications. ITU-T standards are referred to as Recommendations.
+
+**ISO:**
+- The International Organisation for Standardisation (ISO) is a worldwide federation of national standards bodies from more than 140 countries, one from each country. ISO is a nongovernmental organisation that promotes the development of standardisation and related activities with a view to facilitating the international exchange of goods and services and to developing cooperation in the spheres of intellectual, scientific, technological, and economic activity. ISO’s work results in international agreements that are published as International Standards.

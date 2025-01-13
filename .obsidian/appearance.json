@@ -1,9 +1,9 @@
 {
   "accentColor": "#f55c64",
-  "cssTheme": "Rosé Pine Moon",
+  "cssTheme": "Rosé Pine",
   "enabledCssSnippets": [
-    "image_center",
     "font"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false
 }
