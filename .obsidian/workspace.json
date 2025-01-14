@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1da760de9057345e",
@@ -139,17 +140,35 @@
             }
           },
           {
-            "id": "350d7baacd855038",
+            "id": "4f2f216e90030c81",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d4f24347ded2a862",
+            "id": "27df7326de69915a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "19f43b1691483d2f",
             "type": "leaf",
             "state": {
               "type": "smart-chat-view",
@@ -159,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,7 +201,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d4f24347ded2a862",
+  "active": "19f43b1691483d2f",
   "lastOpenFiles": [
     "Introduction to Computer Graphics.md",
     "Cloud Enabling Technology.md",
