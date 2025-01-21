@@ -9,7 +9,7 @@
 | Diplomacy    | 0    | 0    | 0    | 0     | 0     |
 | Intimidation | 0    | 11   | 0    | 0     | 11    |
 | Cursed Lore  | 4    | 7    | 0    | 0     | 11    |
-| Medicine     | 2    | 0    | 0    | 0     | 1     |
+| Medicine     | 2    | 0    | 0    | 0     | 2     |
 | Nature       | 2    | 7    | 0    | 0     | 8     |
 | Occultism    | 4    | 8    | 0    | 0     | 12    |
 | Performance  | 0    | 0    | 0    | 0     | 0     |

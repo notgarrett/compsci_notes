@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f70f7773c24c10f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "403ae8a06f84fbdc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/3 group ideas.md"
+                "file": "Curse of Gavin/Grub Child/Spell Book.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3 group ideas"
+              "icon": "lucide-file",
+              "title": "Spell Book"
             }
           }
         ]
@@ -221,8 +223,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "403ae8a06f84fbdc",
   "lastOpenFiles": [
+    "Curse of Gavin/Belindo Bautista.md",
+    "Curse of Gavin/Grub Child/Skills.md",
+    "Curse of Gavin/Grub Child/Spell Book.md",
+    "Curse of Gavin/Grub Child/Feat + Features.md",
+    "Curse of Gavin/Grub Child/Saviss.md",
+    "Curse of Gavin/Grub Child/Combat Strategy.md",
+    "2025-01-20.md",
+    "Curse of Gavin/Sir Antoine Sinclair.md",
+    "Curse of Gavin/Sheila Blackthorn.md",
+    "Curse of Gavin/Journal.md",
     "Home.md",
     "Excalidraw/3 group ideas.md",
     "Row transposition Cipher Example.md",
@@ -239,16 +251,6 @@
     "Templates/Tikz Graph.md",
     "Display Systems and Rasterization.md",
     "Basic Scaling.md",
-    "Cloud Enabling Technology.md",
-    "README.md",
-    "Templates/Note Template.md",
-    "Templates/Test Template.md",
-    "Data Types and Distributions.md",
-    "Excalidraw/elements of network security.md",
-    "Excalidraw/Drawing 2025-01-12 15.52.14.excalidraw.md",
-    "Excalidraw/Cryptographic algorithms.md",
-    "Introduction to Computer Graphics.md",
-    "Excalidraw/Attacks Services and Security.md",
     "Cavas/OSI Security Architecutre.canvas",
     "Cavas"
   ]

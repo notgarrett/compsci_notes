@@ -1,4 +1,5 @@
 Level: 5
+Name: Saviss (Sav-es)
 Age: 20
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
@@ -34,6 +35,7 @@ Focus Points: 3/3
 
 Curse-bound: 0
 
+Spell DC : +11
 ## Feats
 
 ### Elf:
