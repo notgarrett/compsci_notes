@@ -29,9 +29,8 @@ await tp.file.rename(title);
 
 // This code here sets up our properties window at the start of a note.
  tR += `---
-  date: ${tp.date.now("YYYY-MM-DD")}$
-  tags: ${[selectedTag]}$
-  ---`;
+date: ${tp.date.now("YYYY-MM-DD")}$
+tags: ${[selectedTag]}$---`;
 %>
 
 
