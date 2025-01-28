@@ -19,18 +19,13 @@ await tp.file.rename(title);
     }
   }
 
-	console.log(allTags);
   // Convert the Set to an array and sort it
-  const sortedTags = Array.from(allTags).sort();
-	console.log(sortedTags);
-
-  // Prompt user to choose a tag
-  const selectedTag = await tp.system.suggester(sortedTags, sortedTags[0]);
 
 // This code here sets up our properties window at the start of a note.
  tR += `---
-date: ${tp.date.now("YYYY-MM-DD")}$
-tags: ${[selectedTag]}$---`;
+date: ${tp.date.now("YYYY-MM-DD")}
+tags: 
+---`;
 %>
 
 
