@@ -72,3 +72,54 @@ Terms introduced by Claude Shannon to capture the two basic building blocks for 
 - Larger block sizes mean greater security but reduced encryption/decryption speed for a given algorithm. 
 
 **Key size:** 
+- Larger key size means greater security but may decrease encryption/decryption speeds.
+
+**Number of rounds:**
+- The essence of the Feistel cipher is that a single round offers inadequate security but that multiple rounds offer increasing security. 
+
+**Subkey generation algorithm:** 
+- Greater complexity in this algorithm should lead to greater difficulty at cryptanalysis. 
+
+**Round function F:**
+- Greater complexity generally means greater resistance to cryptanalysis.
+
+**Fast software encryption/decryption:**
+- In many cases, encrypting is embedding applications or utility functions in such a way as to preclude a hardware implementation; accordingly, the speed of execution of the algorithm becomes a concern. 
+
+**Ease of analysis:**
+- If the algorithm can be concisely and clearly explained, it is easier to analyse that algorithm for cryptanalysis vulnerabilities and there develop a higher level of assurance as to its strength. 
+
+# Block Cipher Design Principles: Number of Rounds
+
+The greater the number of rounds, the more difficult it is to perform cryptanalysis. 
+
+In general, the criterion should be that the number of rounds is chosen to that known cryptanalytic efforts require greater effort than a simple brute-force key search attack. 
+
+If DES had 15 or fewer rounds, differential cryptanalysis would require less effort than a brute-force key search.
+
+
+# Average Time Required for Exhaustive Key Search
+
+
+| Key Size (bits) | Cipher     | Number of Alternative Keys         | Time Required at $10^9$ decryption/us | Time Required at $10^{13}$ Decryption/us |
+| --------------- | ---------- | ---------------------------------- | ------------------------------------- | ---------------------------------------- |
+| 56              | DES        | $2^{56}\approx7.2\times10^{16}$    | $2^{55}us=1.125years$                 | 1 hour                                   |
+| 128             | AES        | $2^{128}\approx3.4\times{10^{38}}$ | $2^{127}us=5.3\times{10^{21}}years$   | $5.3\times{10^{17}}$                     |
+| 168             | Triple DES | $2^{168}$                          | $2^{167}us$                           | $5.8\times10^{29}years$                  |
+| 192             | AES        | $2^{192}$                          | $2^{191}us$                           | $9.8\times10^{36}$                       |
+| 256             | AES        | $2^{256}$                          | $2^{255}us$                           | $1.8\times10^{56}years$                  |
+
+# Triple DES (3 DES)
+
+Repeats basic DES algorithm three times using either two or three unique keys (168 bit/112 bit).
+
+First standardised use in financial applications in ANSI standard x9.17 in 1985.
+
+Attractions:
+- 168-bit key length overcomes the vulnerability to brute force attack of DES
+- Underlying encryption algorithm is the same as in DES 
+
+Drawbacks:
+- Algorithm is sluggish in software
+- uses a 64-bit block size
+
