@@ -224,3 +224,4 @@ You surround yourself in a vortex of whirling colorful scarves of force that obf
 ## 3rd level
 
 # Spontaneous Spells
+

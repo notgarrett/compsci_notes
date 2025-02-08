@@ -35,12 +35,12 @@ Focus Points: 3/3
 
 Curse-bound: 0
 
-Spell DC : +11
+Spell DC : +11 (+1 teahee bonus)
+
 ## Feats
 
 ### Elf:
 Nimble Elf (+5 speed)
-
 
 ### Surki
 N/A
@@ -115,8 +115,9 @@ Unified Theory - idk
 
 # Inventory
 - Rusted Dagger (Magic)
-- Another rusted dagger
+- Another rusted dagger (Magic?)
 - Note from abyss (she has a note)
+
 
 
 

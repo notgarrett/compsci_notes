@@ -16,3 +16,9 @@ Won succession war against blackthorns
 God and emperor given right to rule the province
 Holy claims may not be so holy
 
+Speaks Draconic, and Common (obviously)
+
+Darakos - Caroline's family maybe.
+
+Idk house - Amber's house
+

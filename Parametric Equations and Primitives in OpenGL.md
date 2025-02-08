@@ -50,3 +50,45 @@ A circle can be defined as the locus of all points that satisfy the equations:
 - Where x,y are the coordinates of any point of the circle, r is the radius of the circle and t is the parameter.
 
 ## Parametric Equations for Lissajous Curve
+
+Lissajour curves are the family of curves described by the parametric equations written in the form:
+
+$$\begin{align*}
+x(t) &= a\sin(\omega t+\delta)\\
+y(t) &= b\sin(t)
+\end{align*}$$
+
+## Parametric Equation of a Sphere
+
+The sphere $x^{2}+y^{2}+z^{2}=r^{2}$ can be parameterised using spherical coordinates:
+$$\begin{align*}
+x &= r\sin\phi\cos\theta\\
+y &= r\sin\phi\cos\theta\\
+z &= r\cos\phi\\
+0 &\le \theta \le 2\pi, 0\le\phi\le\pi
+\end{align*}$$
+
+```ad-tip
+Instead of t, we have u and v in a sphere.
+$$\begin{align*}
+u &= [0...1], v=[0...1]\\
+x &= r\sin(\phi u)\cos(\theta v)\\
+y &= r\sin(\phi u)\sin(\theta v)\\
+z &= r\cos(\phi v)
+\end{align*}$$
+```
+
+
+## Lines Intersection using Parametric Equations
+
+If both $t_{a}$ and $t_{b}$ is between \[0...1], we have an intersection.
+
+If $t_{a}[0...1], t_{b}<0$ then $t_{b}$ can hit $t_{a}$ but not in a given line segment, so where is no intersection
+
+![[Lines Intersection using Parametric Equations|center]]
+
+# Line-Line Intersection (2D)
+
+The intersection point of the lines is found with one of the following values of t or u, where:
+
+$$t = \begin{pmatrix}\end{pmatrix}$$

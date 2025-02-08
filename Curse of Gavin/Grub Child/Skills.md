@@ -7,7 +7,7 @@
 | Crafting     | 4    | 0    | 0    | 0     | 4     |
 | Deception    | 0    | 0    | 0    | 0     | 0     |
 | Diplomacy    | 0    | 0    | 0    | 0     | 0     |
-| Intimidation | 0    | 11   | 0    | 0     | 11    |
+| Intimidation | +4   | 11   | 0    | 0     | 15    |
 | Cursed Lore  | 4    | 7    | 0    | 0     | 11    |
 | Medicine     | 2    | 0    | 0    | 0     | 2     |
 | Nature       | 2    | 7    | 0    | 0     | 8     |
@@ -19,8 +19,8 @@
 | Survival     | 2    | 0    | 0    | 0     | 2     |
 | Thievery     | 4    | 0    | 0    | 0     | 4     |
 
+Fear Saves - +1 
 
-Fear - +1 
 
 
 # Skill Feats
