@@ -18,10 +18,7 @@
 | Stealth      | 4    | 0    | 0    | 0     | 4     |
 | Survival     | 2    | 0    | 0    | 0     | 2     |
 | Thievery     | 4    | 0    | 0    | 0     | 4     |
-
 Fear Saves - +1 
-
-
 
 # Skill Feats
 ## [Unified Theory](https://2e.aonprd.com/Feats.aspx?ID=5231)Feat 15

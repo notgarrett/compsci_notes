@@ -22,7 +22,6 @@ You evoke buzzing and crawling insects to climb onto a foe's body and bite, deal
 
 **Heightened (+1)** The damage increases by 1d4.
 
-
 ## Patron's Puppet[free-action]Focus 1
 
 [Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159) [Focus](https://2e.aonprd.com/Traits.aspx?ID=511) [Hex](https://2e.aonprd.com/Traits.aspx?ID=324) [Witch](https://2e.aonprd.com/Traits.aspx?ID=734)   
@@ -127,10 +126,58 @@ Vomit Swarm
 - **Saving Throw** [basic](https://2e.aonprd.com/Actions.aspx?ID=2765) Reflex; **Defense** [basic](https://2e.aonprd.com/Actions.aspx?ID=2765) Reflex
 - You belch forth a swarm of magical vermin. You evoke and shape the creatures from your own imagination, allowing you to change the appearance of the creatures (typically a mix of centipedes, roaches, wasps, and worms), but this doesn't change the effect of the spell. The vermin swarm over anyone in the area, their bites and stings dealing 2d8 piercing damage ([basic](https://2e.aonprd.com/Rules.aspx?ID=329) Reflex save). A creature that fails its saving throw also becomes sickened 1. Once the spell ends, the swarm disappears.
 
-[[https://2e.aonprd.com/Spells.aspx?ID=575|Feast of Ashes]]
+
+## Feast of Ashes[three-actions]Spell 2
+
+### Legacy Content
+
+[Curse](https://2e.aonprd.com/Traits.aspx?ID=38) [Necromancy](https://2e.aonprd.com/Traits.aspx?ID=117)   
+**Source** [_Gods & Magic pg. 107_](https://2e.aonprd.com/Sources.aspx?ID=17) [2.0](https://2e.aonprd.com/Sources.aspx?ID=17)  
+**Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3), [primal](https://2e.aonprd.com/Spells.aspx?Tradition=4)  
+**Deities** [Fumeiyoshi](https://2e.aonprd.com/Deities.aspx?ID=305), [Trelmarixian](https://2e.aonprd.com/Deities.aspx?ID=137)  
+**Cast** [three-actions] [material](https://2e.aonprd.com/Rules.aspx?ID=282), [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  
+**Range** 30 feet; **Targets** 1 living creature  
+**Saving Throw** Fortitude; **Duration** 1 week
+
+---
+
+You curse the target with a hunger no food can sate. You can Dismiss the spell. The target must attempt a Fortitude save.  
+  
+**Critical Success** The creature is unaffected and is temporarily immune for 1 hour.  
+**Success** The creature is [fatigued](https://2e.aonprd.com/Conditions.aspx?ID=15) for 1 round.  
+**Failure** The creature is immediately afflicted by hunger as if it hadn’t eaten food in days. It becomes fatigued and takes 1d4 damage each day that can’t be healed until it sates its hunger. No amount of eating can sate the creature’s hunger during the spell’s duration. After the spell’s duration, the creature takes damage from [starvation](https://2e.aonprd.com/Rules.aspx?ID=537).  
+**Critical Failure** As failure but the creature takes 2d4 damage each day, twice as much as usual for hunger.
+
+---
+
+**Heightened (+1)** The hunger becomes more unbearable, increasing the damage each day by 1d4, or by 2d4 on a critical failure.
 ### Oracle: (4)
 
-[[https://2e.aonprd.com/Spells.aspx?ID=1212|Vicious Jealousy]]
+## Vicious Jealousy[two-actions]Spell 2
+
+## This Spell may contain spoilers from the Blood Lords Adventure Path
+
+### Legacy Content
+
+[Uncommon](https://2e.aonprd.com/Traits.aspx?ID=159) [Enchantment](https://2e.aonprd.com/Traits.aspx?ID=61) [Mental](https://2e.aonprd.com/Traits.aspx?ID=106)   
+**Source** [_Pathfinder #181: Zombie Feast pg. 80_](https://2e.aonprd.com/Sources.aspx?ID=139)  
+**Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [divine](https://2e.aonprd.com/Spells.aspx?Tradition=2), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3)  
+**Cast** [two-actions] [somatic](https://2e.aonprd.com/Rules.aspx?ID=283), [verbal](https://2e.aonprd.com/Rules.aspx?ID=284)  
+**Range** 30 feet; **Targets** 1 creature  
+**Saving Throw** Will; **Duration** sustained up to 1 minute
+
+---
+
+The target is overcome by deep jealousy and resentment that twists its mind against other creatures. It must attempt a Will save.  
+  
+**Critical Success** The target is unaffected.  
+**Success** For 1 round, the target no longer treats anyone as its allies. The spell then ends.  
+**Failure** The target no longer treats anyone as its allies. The target can't take the [Aid](https://2e.aonprd.com/Actions.aspx?ID=75) reaction or any action that would directly benefit another creature, such as casting a beneficial spell on them, though it can still take actions that indirectly benefit other creatures, such as fighting the same foes.  
+**Critical Failure** As failure, and whenever the target starts its turn within reach of a creature it previously considered an ally, it must spend its first action on its turn to berate the creature or otherwise wave it away.
+
+---
+
+**Heightened (4th)** You can target up to 10 creatures.
 [[https://2e.aonprd.com/Spells.aspx?ID=1098|Boneshaker]]
 [[https://2e.aonprd.com/Spells.aspx?ID=1679|Sound Body]]
 [[https://2e.aonprd.com/Spells.aspx?ID=1207|Horrifying Blood Loss]]
@@ -138,31 +185,70 @@ Vomit Swarm
 # Third Level Spells
 ### Witch: (2)
 
-Fireball
-- **Range** 500 feet; **Area** 20-foot burst  
-- **Defense** [basic](https://2e.aonprd.com/Rules.aspx?ID=329) Reflex
-- A roaring blast of fire detonates at a spot you designate, dealing 6d6 fire damage.
+## Fireball[two-actions]Spell 3
 
-
-
-Slow
-- You dilate the flow of time around the target, slowing its actions.    
-- **Critical Success** The target is unaffected.  
-- **Success** The target is [slowed 1](https://2e.aonprd.com/Conditions.aspx?ID=35) for 1 round.  
-- **Failure** The target is slowed 1 for 1 minute.  
-- **Critical Failure** The target is slowed 2 for 1 minute.
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32) [Fire](https://2e.aonprd.com/Traits.aspx?ID=72) [Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)   
+**Source** [_Player Core pg. 331_](https://2e.aonprd.com/Sources.aspx?ID=216) [2.0](https://2e.aonprd.com/Sources.aspx?ID=216)  
+**Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [primal](https://2e.aonprd.com/Spells.aspx?Tradition=4)  
+**Catalysts** [Firestarter Pellets](https://2e.aonprd.com/Equipment.aspx?ID=1005)  
+**Deities** [Angradd](https://2e.aonprd.com/Deities.aspx?ID=84), [Chohar](https://2e.aonprd.com/Deities.aspx?ID=215), [Dahak](https://2e.aonprd.com/Deities.aspx?ID=150), [Eiseth](https://2e.aonprd.com/Deities.aspx?ID=169), [Sarenrae](https://2e.aonprd.com/Deities.aspx?ID=292), [The Freeing Flame](https://2e.aonprd.com/Deities.aspx?ID=231), [The Prismatic Ray](https://2e.aonprd.com/Deities.aspx?ID=207), [Walkena](https://2e.aonprd.com/Deities.aspx?ID=159)  
+**Mystery** [flames](https://2e.aonprd.com/Mysteries.aspx?ID=16)  
+**Range** 500 feet; **Area** 20-foot burst  
+**Defense** [basic](https://2e.aonprd.com/Rules.aspx?ID=329) Reflex
 
 ---
+
+A roaring blast of fire detonates at a spot you designate, dealing 6d6 fire damage.
+
+---
+
+**Heightened (+1)** The damage increases by 2d6.
+
+
+
+## Slow[two-actions]Spell 3
+
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32) [Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)   
+**Source** [_Player Core pg. 357_](https://2e.aonprd.com/Sources.aspx?ID=216) [2.0](https://2e.aonprd.com/Sources.aspx?ID=216)  
+**Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3), [primal](https://2e.aonprd.com/Spells.aspx?Tradition=4)  
+**Bloodline** [demonic](https://2e.aonprd.com/Bloodlines.aspx?ID=21)  
+**Deities** [Korada](https://2e.aonprd.com/Deities.aspx?ID=123), [Lorthact](https://2e.aonprd.com/Deities.aspx?ID=243), [Matravash](https://2e.aonprd.com/Deities.aspx?ID=193)  
+**Range** 30 feet; **Targets** 1 creature  
+**Defense** Fortitude; **Duration** varies
+
+---
+
+You dilate the flow of time around the target, slowing its actions.  
+  
+**Critical Success** The target is unaffected.  
+**Success** The target is [slowed 1](https://2e.aonprd.com/Conditions.aspx?ID=35) for 1 round.  
+**Failure** The target is slowed 1 for 1 minute.  
+**Critical Failure** The target is slowed 2 for 1 minute.
+
+---
+
+**Heightened (6th)** You can target up to 10 creatures.
+
+
 ### Oracle: (3)
 
-Blindness
-- **Range** 30 feet; **Targets** 1 creature  
-- **Defense** Fortitude
-- You blind the target. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute.   
-- **Critical Success** The target is unaffected.  
-- **Success** The target is [blinded](https://2e.aonprd.com/Conditions.aspx?ID=1) until its next turn begins.  
-- **Failure** The target is blinded for 1 minute.  
-- **Critical Failure** The target is blinded permanently.
+## Blindness[two-actions]Spell 3
+
+[Concentrate](https://2e.aonprd.com/Traits.aspx?ID=32) [Incapacitation](https://2e.aonprd.com/Traits.aspx?ID=93) [Manipulate](https://2e.aonprd.com/Traits.aspx?ID=104)   
+**Source** [_Player Core pg. 318_](https://2e.aonprd.com/Sources.aspx?ID=216) [2.0](https://2e.aonprd.com/Sources.aspx?ID=216)  
+**Traditions** [arcane](https://2e.aonprd.com/Spells.aspx?Tradition=1), [divine](https://2e.aonprd.com/Spells.aspx?Tradition=2), [occult](https://2e.aonprd.com/Spells.aspx?Tradition=3), [primal](https://2e.aonprd.com/Spells.aspx?Tradition=4)  
+**Bloodline** [hag](https://2e.aonprd.com/Bloodlines.aspx?ID=26)  
+**Range** 30 feet; **Targets** 1 creature  
+**Defense** Fortitude
+
+---
+
+You blind the target. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute.  
+  
+**Critical Success** The target is unaffected.  
+**Success** The target is [blinded](https://2e.aonprd.com/Conditions.aspx?ID=1) until its next turn begins.  
+**Failure** The target is blinded for 1 minute.  
+**Critical Failure** The target is blinded permanently.
 
 ## Impending Doom[two-actions]Spell 3
 

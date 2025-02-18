@@ -22,15 +22,27 @@
             }
           },
           {
-            "id": "cefa1bdc376bee50",
+            "id": "5f60b11c1559e1b4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Random Numbers Generators.md"
+                "file": "Excalidraw/stream ciphers general architecture.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Random Numbers Generators"
+              "title": "stream ciphers general architecture"
+            }
+          },
+          {
+            "id": "087b29aaa4bb1c17",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Pseudorandom Block Cipher.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Pseudorandom Block Cipher"
             }
           }
         ]
@@ -199,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,41 +231,40 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "smart-connections-visualizer:Open smart connections visualizer": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "copilot:Open Copilot Chat": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Random Numbers Generators.md",
+    "Excalidraw/stream ciphers general architecture.md",
     "Random Numbers and Stream Ciphers.md",
+    "Excalidraw/Pseudorandom Block Cipher.md",
+    "Excalidraw/Drawing 2025-02-17 18.50.31.excalidraw.md",
     "Home.md",
+    "Curse of Gavin/Grub Child/Spell Book.md",
+    "Curse of Gavin/Grub Child/Saviss.md",
+    "Curse of Gavin/Grub Child/Skills.md",
+    "Curse of Gavin/Party Treasure.md",
+    "Curse of Gavin/Grub Child/Feat + Features.md",
+    "Curse of Gavin/Grub Child/Combat Strategy.md",
+    "Curse of Gavin/Curator.md",
+    "Curse of Gavin/Belindo Bautista.md",
+    "Curse of Gavin/College of Lumberton.md",
+    "Curse of Gavin/Illwood.md",
+    "Curse of Gavin/Journal.md",
+    "4471-WA-A2-GarrettGiles.md",
+    "Pasted image 20250216201523.png",
+    "Pasted image 20250216201312.png",
+    "Excalidraw/SeedRequirements Diagram.md",
+    "Parralize Project.md",
+    "Transformation.md",
+    "View Pipeline in Transformation.md",
+    "Excalidraw/Random Numbers Generators.md",
     "What is Cloud Computing?.md",
     "Task-2-0698370-COMP4476-01.md",
     "Shading.md",
     "Task-1-0698370-COMP4476-01.md",
-    "Advanced Encryption Standard.md",
-    "Basic Scaling.md",
-    "smart-chats/CryptographyTestReview.md",
     "Pasted image 20250205015822.png",
-    "Math and Primitives.md",
-    "Display Systems and Rasterization.md",
-    "Curse of Gavin/Grub Child/Saviss.md",
-    "Curse of Gavin/Grub Child/Spell Book.md",
-    "Curse of Gavin/Grub Child/Skills.md",
-    "Curse of Gavin/Grub Child/Feat + Features.md",
-    "Curse of Gavin/Grub Child/Combat Strategy.md",
-    "Hydra.md",
-    "Curse of Gavin/Curator.md",
-    "Pale Men.md",
-    "Curse of Gavin/Illwood.md",
-    "Curse of Gavin/Sir Antoine Sinclair.md",
-    "Parametric Equations and Primitives in OpenGL.md",
-    "Excalidraw/Lines Intersection using Parametric Equations.md",
-    "Cloud Enabling Technology.md",
-    "Risks and Challenges.md",
     "smart-chats",
     "Images",
     "Cavas/OSI Security Architecutre.canvas",

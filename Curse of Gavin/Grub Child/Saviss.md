@@ -4,6 +4,7 @@ Age: 20
 Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
+Exp: 550
 Heritage: Surki (Size Medium)2
 Speed: 40 (+10 from feats)
 Languages: Common, Fey, Elven, Aclo
@@ -20,11 +21,10 @@ Languages: Common, Fey, Elven, Aclo
 | Charisma     | 0   |     |
 
 Perception: 2 (wis) + 4 (expert) + 5 (level) = 11
-+2 if its combat
 
 ## Defences
 
-HP: 42/42
+HP: 39/42
 Armour Class: 23 + 5(Mystic armour) = 27
 
 Fort: 11
@@ -33,80 +33,9 @@ Will: 15
 
 Focus Points: 3/3
 
-Curse-bound: 0
+Curse-bound: 1
 
 Spell DC : +11 (+1 teahee bonus)
-
-## Feats
-
-### Elf:
-Nimble Elf (+5 speed)
-
-### Surki
-N/A
-
-### Oracle:
-
-Domain Acumen -
-Thousand Visions -
-Advanced Revelation -
-Read Disaster -
-
-[[https://app.demiplane.com/nexus/pathfinder2e/feats/roll-the-bones-of-fate-rm |Roll the bones of fate]]
-
-Domain Fluency -
-Revelations focus -
-The dead walk ( I am so broken my god ) -- Change this out
-Divine Effusion - https://2e.aonprd.com/Feats.aspx?ID=6085
-Mystery Conduit - https://2e.aonprd.com/Feats.aspx?ID=6086
-
-### Witch:
-
-Cackle
-Lesson
-
-# Spells
-
-## Oracle
-### Cantrips
-Ancient Dust - https://2e.aonprd.com/Spells.aspx?ID=1261
-Message -
-Shield - 
-Rousing Splash -
-Guidance - 
-
-### 1st Level
-Enfeeble - 
-Sacred Beasts - https://2e.aonprd.com/Spells.aspx?ID=1958
-Purifying Icicle -
-
-
-## Witch
-
-### Bonus Spells
-Pest Form - https://2e.aonprd.com/Spells.aspx?ID=1626
-
-### Hexes
-[[https://2e.aonprd.com/Spells.aspx?ID=1089 |Buzzing Bites]]
-Patrons Puppet
-#### Cantrips
-[[https://2e.aonprd.com/Spells.aspx?ID=1509&Redirected=1 |`Electric Arc]] 
-[[https://2e.aonprd.com/Spells.aspx?ID=1639 |Prestidigation]]
-[[https://2e.aonprd.com/Spells.aspx?ID=975 |Protect Campanion]]
-[[https://2e.aonprd.com/Spells.aspx?ID=1206|Inside Rope]]
-[[https://2e.aonprd.com/Actions.aspx?ID=2624|Detect Magic]]
-
-#### 1st Level
-Grease - 
-Fear - 
-
-# Skills
-Acrobatics(): 3
-Arcana(L): 4
-Crafting(): 4
-Cursed Lore(T): 7
-Occultism(E): 9
-Religion(T): 4
 
 ## Skill Feats
 Quick Identification - level 2
@@ -114,10 +43,17 @@ Odity Identification - level 4
 Unified Theory - idk
 
 # Inventory
-- Rusted Dagger (Magic)
-- Another rusted dagger (Magic?)
+- Rusted Dagger (Magic part of greatsword)
+- Another rusted dagger (Magic?) +1 nightmare dagger
+	- Those who look upon it as their deepest fears
+	- 1d6 mental damage ontop of regular
+	- Critical does stupified 1
+	- Stupified creatures get fear 2
+	- Activate ability: 10 minutes, once a day I can cast nightmare
 - Note from abyss (she has a note)
 
-
+23 Gold
+0 Silver
+0 Copper
 
 
