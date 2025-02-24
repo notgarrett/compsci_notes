@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Public Key Cryptography and RSA"
             }
+          },
+          {
+            "id": "53dc36f546aaf810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Numbers and Stream Ciphers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Numbers and Stream Ciphers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "1da760de9057345e",
@@ -167,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Numbers and Stream Ciphers.md",
+                "file": "Public Key Cryptography and RSA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Numbers and Stream Ciphers"
+              "title": "Outline of Public Key Cryptography and RSA"
             }
           },
           {
@@ -187,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,37 +224,39 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "53dc36f546aaf810",
   "lastOpenFiles": [
-    "Home.md",
     "Public Key Cryptography and RSA.md",
     "Random Numbers and Stream Ciphers.md",
-    "Excalidraw/stream ciphers general architecture.md",
-    "Excalidraw/Pseudorandom Block Cipher.md",
-    "Excalidraw/Drawing 2025-02-17 18.50.31.excalidraw.md",
-    "Curse of Gavin/Grub Child/Spell Book.md",
-    "Curse of Gavin/Grub Child/Saviss.md",
-    "Curse of Gavin/Grub Child/Skills.md",
-    "Curse of Gavin/Party Treasure.md",
-    "Curse of Gavin/Grub Child/Feat + Features.md",
-    "Curse of Gavin/Grub Child/Combat Strategy.md",
-    "Curse of Gavin/Curator.md",
-    "Curse of Gavin/Belindo Bautista.md",
-    "Curse of Gavin/College of Lumberton.md",
-    "Curse of Gavin/Illwood.md",
-    "Curse of Gavin/Journal.md",
-    "4471-WA-A2-GarrettGiles.md",
-    "Pasted image 20250216201523.png",
-    "Pasted image 20250216201312.png",
-    "Excalidraw/SeedRequirements Diagram.md",
-    "Parralize Project.md",
-    "Transformation.md",
-    "View Pipeline in Transformation.md",
-    "Excalidraw/Random Numbers Generators.md",
-    "What is Cloud Computing?.md",
+    "Modes of Operation.md",
+    "Task-1-0698370-COMP4476-01.md",
     "Task-2-0698370-COMP4476-01.md",
-    "Shading.md",
+    "Linear Regression.md",
+    "Parralize Project.md",
+    "Please_generate_me_a_test_review_based_off_these_notes@20250223_150421.md",
+    "View Pipeline in Transformation.md",
+    "Sensitivity Analysis & Duality.md",
+    "Curse of Gavin/Pale Men.md",
+    "Week 2 and 3 Report.md",
+    "Risks and Challenges.md",
+    "Basic Scaling.md",
+    "Advanced Encryption Standard.md",
+    "4471-WA-A2-GarrettGiles.md",
+    "Home.md",
+    "Inferential Statistics and Hypothesis Testing.md",
+    "Curse of Gavin/Hydra.md",
+    "Untitled.md",
     "Pasted image 20250205015822.png",
+    "Pasted image 20250216201312.png",
+    "Pasted image 20250216201523.png",
+    "smart-chats/CryptographyTestReview.md",
+    "Curse of Gavin/Classical Encryption Techniques.md",
+    "Excalidraw/RSA example.md",
+    "Images/2025-02-18-151539_hyprshot.png",
+    "Images",
+    "Transformation.md",
+    "What is Cloud Computing?.md",
+    "Parametric Equations and Primitives in OpenGL.md",
     "smart-chats",
     "Images",
     "Cavas/OSI Security Architecutre.canvas",
