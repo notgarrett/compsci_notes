@@ -29,7 +29,7 @@
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "#copilot-conversations, copilot-conversations, #homework",
+  "qaExclusions": "copilot-conversation,\n#copilot-conversation,\n#homework",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],

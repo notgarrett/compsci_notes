@@ -225,3 +225,89 @@ With a properly designed pseudorandom number generator a stream cipher can be as
 
 # RC4
 
+Designed in 1987 by Ron Rivest.
+
+Variable key size stream cipher with byte-oriented operations.
+
+Based on use of a random permutation.
+
+Eight to sixteen machine operations are required per output byte and the cipher can be expected to run very quickly in software.
+
+RC4 is used on the WiFi Protected Access (WPA) protocol that are part of the IEEE 802.11 wireless LAN standard.
+
+It is optional for use in SSH and Kerberos.
+
+RC4 was kept as a trade secret by RSA Secuurity until September 1994 when the RC4 algorithm was anonymously posted on the Internet on the Cyberpunks anonymous remailers list.
+
+## Weakness in RC4
+
+A fundamental vulnerability was revealed in the RC4 key scheduling algorithm that reduces the amount of effort to discover the key.
+
+Recent cryptanalysis results exploit biases in the RC4 keystream to recover repeatedly encrypted plaintexts.
+
+As a result of the discovered weaknesses the IETF issued RFC 7465 prohibiting the use of RC4 in TLS.
+
+In the latest TLS guidelines, NIST also prohibited the use of RC4 for government use.
+
+# Stream Ciphers Using Feedback Shift Registers
+
+FSRs exhibit the desired performance behavior, are well-suited to compact hardware implementation, and there are well-developed theoretical results on the statistical properties of the bit sequences they produce  
+- An FSR consists of a sequence of 1-bit memory cells  
+- Each cell has an output line, which indicates the value currently stored, and an input line  
+- At discrete time instants, known as clock times, the value in each storage device is replaced by the value indicated by its input line  
+- The effect is as follows: The rightmost (least significant) bit is shifted out as the output bit for this clock cycle; the other bits are shifted one bit position to the right; the new leftmost (most significant) bit is calculated as a function of the other bits in the FSR
+
+# Grain-128a: LFSRs and NFSRs based stream cipher
+
+Grain is a family of hardware-efficient stream ciphers  
+
+Grain was accepted as part of the eSTREAM effort to approve a number of new stream ciphers  
+
+The eSTREAM specification, called Grain v1, defines two stream ciphers, one with an 80-bit key and a 64-bit initialization vector (IV), and one with a 128-bit key and 80-bit IV  
+
+Grain has since been revised and expanded to include authentication, referred to as Grain-128a  
+
+Grain-128a consists of two shift registers, one with linear feedback and the second with nonlinear feedback, and a filter function  
+
+The registers are couple by very lightweight, but judiciously chosen Boolean functions  
+
+The NFSR, together with a nonlinear filter, introduces nonlinearity to the cipher  
+
+The input to the NFSR is masked with the output of the LFSR so that the state of the NFSR is balanced
+
+# TRNGs
+
+A true random number generator (TRNG) uses a nondeterministic source to produce randomness  
+
+Most operate by measuring unpredictable natural processes such as pulse detectors of ionizing radiation events, gas discharge tubes, and leaky capacitors  
+
+Intel has developed a commercially available chip that samples thermal noise by amplifying the voltage measured across undriven resistors  
+
+LavaRnd is an open source project for creating truly random numbers using inexpensive cameras, open source code, and inexpensive hardware  
+- The system uses a saturated CCD in a light-tight can as a chaotic source to produce the seed; software processes the result into truly random numbers in a variety of formats
+
+```ad-note
+title: Possible Sources of Randomness
+- Sound/video input
+	- The input from a sound digitizer with no source pluggin in, or from a camera with the lens cap on is essentially thermal noise
+- Disk drives
+	- Have small random fluctuations in their rotational speed due to chaotic air turbulence
+```
+
+# Comparison of PRNGs and TRNGs
+
+
+|                 | Pseudorandom Number Generators | True Random Number Generators |
+| --------------- | ------------------------------ | ----------------------------- |
+| **Efficiency**  | Very efficient                 | Generally inefficient         |
+| **Determinism** | Deterministic                  | Nondeterministic              |
+| **Periodicity** | Periodic                       | Aperiodic                     |
+
+# Intel Digital Random Number Generator
+
+TRNGs have traditionally been used only for key generation and other applications where only a small number of random bits were required  
+- This is because TRNGs have generally been inefficient with a low bit rate of random bit production  
+
+The first commercially available TRNG that achieves bit production rates comparable with that of PRNGs is the Intel digital random number generator offered on new multicore chips since May 2012  
+- It is implemented entirely in hardware  
+- The entire DRNG is on the same multicore chip as the processors
