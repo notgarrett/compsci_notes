@@ -12,8 +12,8 @@ tags:
 
 Examples include:
 
-*   **Linear Congruential Generator (LCG):** This algorithm is parameterized with four numbers: $m$ (the modulus, $m > 0$), $a$ (the multiplier, $0 < a < m$), $c$ (the increment, $0 \le c < m$), and $X_{0}$ (the starting value, or seed, $0 \le X_{0} < m$). The sequence of random numbers $\{X_{n}\}$ is obtained via the iterative equation: $X_{n+1}=(aX_{n}+c)\mod{m}$. The selection of values for $a, c,$ and $m$ is critical in developing a good random number generator.
-*   **Blum Blum Shub (BBS) Generator:** This generator has a strong public proof of its cryptographic strength and is referred to as a cryptographically secure pseudorandom bit generator (CSPRBG). The security of BBS is based on the difficulty of factoring $n$. A CSPRBG is defined as one that passes the next-bit-test if there is not a polynomial-time algorithm that, on input of the first k bits of an output sequence, can predict the (k+1)st bit with probability significantly greater than 1/2.
+* **Linear Congruential Generator (LCG):** This algorithm is parameterized with four numbers: $m$ (the modulus, $m > 0$), $a$ (the multiplier, $0 < a < m$), $c$ (the increment, $0 \le c < m$), and $X_{0}$ (the starting value, or seed, $0 \le X_{0} < m$). The sequence of random numbers $\{X_{n}\}$ is obtained via the iterative equation: $X_{n+1}=(aX_{n}+c)\mod{m}$. The selection of values for $a, c,$ and $m$ is critical in developing a good random number generator.
+* **Blum Blum Shub (BBS) Generator:** This generator has a strong public proof of its cryptographic strength and is referred to as a cryptographically secure pseudorandom bit generator (CSPRBG). The security of BBS is based on the difficulty of factoring $n$. A CSPRBG is defined as one that passes the next-bit-test if there is not a polynomial-time algorithm that, on input of the first k bits of an output sequence, can predict the (k+1)st bit with probability significantly greater than 1/2.
 
 #### Sources:
 - [Introduction to Cryptography and Network Security](obsidian://open?vault=compsci_notes&file=Introduction%20to%20Cryptography%20and%20Network%20Security)
