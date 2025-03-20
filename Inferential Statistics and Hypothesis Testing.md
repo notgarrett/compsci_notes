@@ -53,7 +53,7 @@ A Z test can be used when:
 - Known variance and for unkown variance (large sample size)
 ```
 
-**Example:** Suppose we want to test if a new type of energy drink changes the average reaction time of consumers. From previous data, we know that the average reaction time for people not consuming the drink is 200 ms with a standard deviation of 15 ms. 
+**Example:** Suppose we want to test if a new type of energy drink changes the average reaction time of consumers. From previous data, we know that the average reaction time for people not consuming the drink is 200 ms with a standard deviation of 15 ms. Our sample size is 40. 
 
 $$\begin{align*}
 \text{Population Mean} (u) &= 200 \text{ milliiseconds} \\
