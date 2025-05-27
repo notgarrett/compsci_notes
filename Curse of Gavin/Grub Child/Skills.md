@@ -10,7 +10,7 @@
 | Intimidation | +4   | 11   | 0    | 0     | 15    |
 | Cursed Lore  | 4    | 7    | 0    | 0     | 11    |
 | Medicine     | 2    | 0    | 0    | 0     | 2     |
-| Nature       | 2    | 7    | 0    | 0     | 8     |
+| Nature       | 2    | 7    | 0    | 0     | 9     |
 | Occultism    | 4    | 8    | 0    | 0     | 12    |
 | Performance  | 0    | 0    | 0    | 0     | 0     |
 | Religion     | 2    | 7    | 0    | 0     | 9     |
@@ -18,8 +18,6 @@
 | Stealth      | 4    | 0    | 0    | 0     | 4     |
 | Survival     | 2    | 0    | 0    | 0     | 2     |
 | Thievery     | 4    | 0    | 0    | 0     | 4     |
-Fear Saves - +1 
-
 # Skill Feats
 ## [Unified Theory](https://2e.aonprd.com/Feats.aspx?ID=5231)Feat 15
 

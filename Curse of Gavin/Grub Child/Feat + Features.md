@@ -5,7 +5,7 @@ Nimble Elf
 - 5+ to movement speed.
 
 Fey Influence
-- Pick this later
+- Monarch Butterfly
 
 **Oracle Class Feats:** 
 [[https://2e.aonprd.com/Feats.aspx?ID=6055|Nudge the Scales]]

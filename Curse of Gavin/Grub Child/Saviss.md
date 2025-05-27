@@ -5,7 +5,7 @@ Class: Witch (Misqito Witch)
 Background: Cursed (Bones)
 Race: Elf
 Exp: 550
-Heritage: Surki (Size Medium)2
+Heritage: Surki (Size Medium)
 Speed: 40 (+10 from feats)
 Languages: Common, Fey, Elven, Aclo
 
@@ -19,12 +19,11 @@ Languages: Common, Fey, Elven, Aclo
 | Intelligence | 4.5 |     |
 | Wisdom       | 2   |     |
 | Charisma     | 0   |     |
-
 Perception: 2 (wis) + 4 (expert) + 5 (level) = 11
 
 ## Defences
 
-HP: 39/42
+HP: 18/32(42) (drained -10)
 Armour Class: 23 + 5(Mystic armour) = 27
 
 Fort: 11
@@ -33,14 +32,17 @@ Will: 15
 
 Focus Points: 3/3
 
-Curse-bound: 1
+Curse-bound: 0
 
-Spell DC : +11 (+1 teahee bonus)
+Spell DC : +12 (11 + 1 teahee bonus)
+
+Frightened 1
+
 
 ## Skill Feats
 Quick Identification - level 2
 Odity Identification - level 4
-Unified Theory - idk
+Unified Theory - Level 20 (ish)
 
 # Inventory
 - Rusted Dagger (Magic part of greatsword)
@@ -51,8 +53,11 @@ Unified Theory - idk
 	- Stupified creatures get fear 2
 	- Activate ability: 10 minutes, once a day I can cast nightmare
 - Note from abyss (she has a note)
+- Ring of ventriloquism or some shit
+- Wand (From druid burial ground)
 
-23 Gold
+
+23 Gold (300k???)
 0 Silver
 0 Copper
 
